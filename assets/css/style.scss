@@ -40,33 +40,12 @@ body {
   horiz-align: left;
 }
 
-div.slogan {
-  margin: 140px 0;
-  position: relative;
-}
-
-div.slogan p {
-  text-align: center;
-}
-
-div.slogan p cite {
-  font-size: 1.6em;
-}
-
 div.whitten p {
   background: rgba(white, 0.2);
 }
 
 div.whitten p cite {
   background: rgba(white, 0.6);
-}
-
-div#particles-js {
-  width: 100%;
-  height: 500px;
-  z-index: -1;
-  position: absolute;
-  top: 0;
 }
 
 .shadow {
@@ -96,23 +75,6 @@ div.note p {
 
 div.note p cite {
   font-size: 1.2em;
-}
-
-div.team {
-  background: $color-grey-light;
-}
-
-div.team img {
-  margin: 0;
-}
-
-div.team p cite {
-  font-size: 1.4em;
-}
-
-div.team p {
-  padding: 20px;
-  text-align: center;
 }
 
 a {
@@ -162,47 +124,6 @@ header h1 a:hover, header h1 a:focus {
 
 header a small {
   display: inline;
-}
-
-header nav.main-nav {
-  float: right;
-  margin: 12px 0 0 4px;
-  text-transform: uppercase;
-  font-size: 14px;
-  display: inline;
-}
-
-header nav.main-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  border: none;
-  background: none;
-  text-align: center;
-}
-
-header nav.main-nav ul li {
-  display: inline-block;
-  margin: 0 8px;
-  width: auto;
-}
-
-header nav.main-nav ul li a {
-  display: block;
-  text-align: center;
-  padding: 8px 0 2px 0;
-  text-decoration: none;
-  border-bottom: 2px rgba(256, 256, 256, 0.12) solid;
-}
-
-header nav.main-nav ul li:not(.active) a:hover {
-  border-bottom: 2px $color-grey-dark solid;
-}
-
-header nav.main-nav ul li.active a {
-  border-bottom: 2px $color-black-light solid;
-  color: $color-black;
 }
 
 header .icon {
@@ -1365,13 +1286,6 @@ img.right {
   border-top-right-radius: 64px;
 }
 
-img.member {
-  width: 260px;
-  height: 260px;
-  border-bottom-right-radius: 64px;
-  border-bottom-left-radius: 64px;
-}
-
 div.member {
   max-width: 700px;
   margin: 8px auto 80px auto;
@@ -1567,97 +1481,6 @@ div.logo_col {
   font-size: 90%;
 }
 
-div.container-fluid-how {
-  margin-top: 64px;
-  max-width: 736px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-div.container-fluid-careers {
-  margin-top: 16px;
-  max-width: 736px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-div.how_col_fill, div.how_col {
-  width: auto;
-  max-width: 209px;
-  float: left;
-  position: relative;
-  padding: 18px;
-  margin: 18px;
-  font-size: 80%;
-  line-height: 1.65em;
-}
-
-div.how_col_fill {
-  width: 100%;
-  max-width: 700px;
-  clear: both;
-}
-
-div.how_col h3, div.how_col_fill h3 {
-  text-align: center;
-  margin-top: 0.5em;
-}
-
-div.careers-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/adult-2398561_1280.jpg");
-  -webkit-filter: blur(5px);
-  filter: blur(5px);
-  width: 100%;
-  height: 580px;
-  background-position: right center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: -1;
-  position: absolute;
-  top: 0;
-}
-
-div.careers-slogan {
-  height: 200px;
-  color: $background-color;
-}
-
-div.product-image {
-  -webkit-filter: blur(5px);
-  filter: blur(5px);
-  width: 100%;
-  height: 1100px;
-  z-index: -1;
-  position: absolute;
-  top: 0;
-}
-
-div.product-image img {
-  width: 100%;
-  height: 1100px;
-  filter: brightness(50%);
-}
-
-div.product-content {
-  height: 800px;
-  color: $background-color;
-  margin-bottom: -20px;
-}
-
-div.product-content p {
-  text-shadow: 1px 1px #000000;
-}
-
-div.product-content h2 {
-  text-align: center;
-  color: white;
-}
-
-div#product-form-container {
-  max-width: 490px;
-  margin: 160px auto 0 auto;
-}
-
 div.background-primary {
   background: $color-primary-dark;
 }
@@ -1760,36 +1583,6 @@ div.content-block-section h3 {
   margin: 40px 40px 10px 40px;
 }
 
-div.careers-values {
-  background: $color-grey-light;
-  padding: 2px 0 2em 0;
-}
-
-div.careers-values div.row div.how_col {
-  text-align: left;
-  margin: 18px 18px 2px 18px;
-  width: auto;
-  max-width: 330px;
-  float: left;
-  position: relative;
-  font-size: 85%;
-  line-height: 1.65em;
-  padding: 0;
-}
-
-div.careers-values div.row div.how_col h3 {
-  text-align: left;
-  margin-top: 0.5em;
-}
-
-div.the-company {
-  background: $color-grey-light;
-}
-
-div.our-offer {
-  background: $background-color;
-}
-
 @media screen and (max-width: 880px) {
 
   header, footer, form {
@@ -1797,43 +1590,6 @@ div.our-offer {
     padding-right: 15px;
   }
 
-  header nav.main-nav {
-    clear: left;
-    float: left;
-    margin: 0;
-  }
-
-  nav.main-nav ul li.right,
-  nav.main-nav ul li {
-    float: none;
-  }
-
-  div.container-fluid-how {
-    max-width: 756px;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  div.how_col, div.how_col_fill {
-    width: 100%;
-    max-width: 100%;
-    margin: 8px auto;
-    padding: 2px 10px 0 10px;
-  }
-
-  div.how_col h3, div.how_col_fill h3 {
-    text-align: left;
-  }
-
-  div.careers-values div.row div.how_col {
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0;
-  }
-  div.careers-values div.row div.how_col h3 {
-    margin-bottom: 8px;
-  }
 }
 
 @media screen and (max-width: 840px) {
@@ -1860,11 +1616,6 @@ div.our-offer {
     max-width: 100%;
     height: auto;
   }
-
-  div.how_col, div.how_col_fill {
-    padding: 2px 10px 12px 10px;
-  }
-
 }
 
 @media screen and (max-width: 780px) {
@@ -1879,20 +1630,6 @@ div.our-offer {
 
   footer div.footer_social {
     padding-right: 32px;
-  }
-
-  div.slogan {
-    margin: 64px 0px;
-    border-radius: 0px;
-  }
-
-  div.slogan p cite {
-    font-size: 1.6em;
-  }
-
-  img.member {
-    width: 240px;
-    height: 240px;
   }
 
   body {
@@ -1913,33 +1650,10 @@ div.our-offer {
     word-wrap: normal;
   }
 
-  div.how_col, div.how_col_fill {
-    border-radius: 0;
-    padding: 2px 0 12px 0;
-  }
-
   .form-control {
     padding: 6px 6px;
     margin-left: -6px;
     margin-right: -6px;
-  }
-}
-
-
-@media screen and (max-width: 700px) {
-
-  div.member img.left {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-    border-top-right-radius: 32px;
-    border-bottom-right-radius: 32px;
-  }
-
-  div.member img.right {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-    border-top-left-radius: 32px;
-    border-bottom-left-radius: 32px;
   }
 }
 
@@ -1965,19 +1679,6 @@ div.our-offer {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  div.slogan p {
-    text-align: left;
-  }
-
-  div.slogan p cite {
-    font-size: 1.4em;
-  }
-
-  img.member {
-    width: 220px;
-    height: 220px;
   }
 
   div.content-block {
@@ -2024,25 +1725,6 @@ div.our-offer {
 
 @media print, screen and (max-width: 500px) {
 
-  div.careers-image {
-    max-height: 400px;
-  }
-
-  div.product-image {
-    height: 600px;
-  }
-
-  div.product-image img {
-    height: 600px;
-  }
-  div.product-content {
-    height: 380px;
-  }
-
-  div#product-form-container {
-    margin: 80px auto 0 auto;
-  }
-
   div.wrapper-main {
     padding-top: 70px;
   }
@@ -2056,11 +1738,6 @@ div.our-offer {
     padding-right: 16px;
   }
 
-  div.how_col, div.how_col_fill {
-    border-radius: 0;
-    padding: 2px 0 12px 0;
-  }
-
   div.logo_col {
     padding: 10px 10px;
   }
@@ -2069,35 +1746,9 @@ div.our-offer {
     padding: 8px 8px 4px 8px;
   }
 
-  img.member {
-    width: 200px;
-    height: 200px;
-  }
-
-  div.slogan p cite {
-    font-size: 1.3em;
-  }
-
 }
 
 @media screen and (max-width: 560px) {
-
-  header nav.main-nav {
-    display: none;
-  }
-
-  header nav.main-nav.responsive {
-    position: relative;
-    display: block;
-  }
-
-  header nav.main-nav ul li {
-    margin: 0 6px;
-  }
-
-  header nav.main-nav ul li a {
-    padding: 8px 0 8px 0;
-  }
 
   header a.icon {
     float: right;
@@ -2124,44 +1775,6 @@ div.our-offer {
     display: block;
   }
 
-  header nav.main-nav ul li {
-    margin: 0 0;
-    float: left;
-    width: 100%;
-    display: block;
-    text-align: center;
-  }
-
-  header nav.main-nav ul li:not(.active) a:hover {
-    background: $color-grey-light;
-    border-top-right-radius: 0;
-    border-top-left-radius: 0;
-  }
-
-  header nav.main-nav ul li.active {
-    z-index: 2;
-    background: $color-grey-light;
-  }
-
-  header nav.main-nav {
-    width: 100%;
-  }
-
-  header nav.main-nav ul li {
-    width: 100%;
-  }
-  header nav.main-nav ul li a {
-    border-bottom: none;
-  }
-
-  header nav.main-nav ul li:not(.active) a:hover {
-    border-bottom: none;
-  }
-
-  header nav.main-nav ul li.active a {
-    border-bottom: none;
-  }
-
 }
 
 @media screen and (max-width: 410px) {
@@ -2173,44 +1786,6 @@ div.our-offer {
   header h1 a span {
     float: left;
     margin: 12px 8px 0 8px;
-  }
-
-  div.slogan p cite {
-    font-size: 1.2em;
-  }
-
-  div.slogan p cite.team {
-    font-size: 0.9em;
-  }
-
-  img.member {
-    width: 170px;
-    height: 170px;
-  }
-
-}
-
-@media screen and (max-width: 340px) {
-
-  img.member {
-    width: auto;
-    height: auto;
-  }
-
-  div.member h2 {
-    margin-top: 16px;
-  }
-
-  div.member img.left {
-    float: none;
-    margin: 0;
-    border-radius: 0;
-  }
-
-  div.member img.right {
-    float: none;
-    margin: 0;
-    border-radius: 0;
   }
 
 }
