@@ -1,56 +1,69 @@
 {% include header.html %}
 <script>
-    $(document).ready(function(){
+    $(document).ready(function () {
         var toc = "";
         $("div.wrapper-main h1, div.wrapper-main h2, div.wrapper-main h3").each(function (index, value) {
             var anchor = $(this).attr('id');
             var titleText = $(this).text();
-            var tagnName = value.tagName;
-            var depth = 0;
-            if(tagnName === 'N2'){
-                depth = 1
-            }else if(tagnName === 'N3'){
-                depth = 2
+            var tagName = value.tagName;
+            var style = "";
+            if (tagName === 'H2') {
+                style = "padding-left: 8px; font-size: 90%;"
+            } else if (tagName === 'H3') {
+                style =  "padding-left: 16px; font-size: 80%;"
             }
-            toc += "<a href=\"#" + anchor + "\" class=\"w3-bar-item\">" + tagnName + " " + depth+ " "  + titleText + "</a>";
+            toc += "<div><a href=\"#" + anchor + "\" class=\"w3-bar-item\" style=\"" +
+                style + "\">" + titleText + "</a></div>";
         });
 
-        document.getElementById("toc").innerHTML += toc;
+        document.getElementById("toc").innerHTML +=  toc;
     });
 </script>
-<div id="contents">
-    <div class="w3-sidebar w3-bar-block" style="width:200px;">
-        {% assign docs = site.docs | sort:"index" %}
-        {% for doc in docs %}
-        {% assign levels = doc.index | count_levels %}
-        {% if levels > 1 %}<small>{% endif %}
-        <a href="{{doc.url}}" class="w3-bar-item">{{ doc.index | replace_index }} {{ doc.title }}</a>
-        {% if levels > 1 %}</small>{% endif %}
-        {% endfor %}
-    </div>
-
-    <div id="toc" class="w3-sidebar w3-bar-block" style="width:200px;right:0">
-    </div>
-
-    <div class="w3-main" style="margin-left:200px; margin-right: 200px;">
-        <div style="float:right"><a href="{{ site.github.repository_url }}/{{ page.path }}">Edit</a></div>
-        <div>
-            <h1>{{page.title}}</h1>
-            {{ content }}
-        </div>
-
-        <div>
-            <div class="PageNavigation">
-                {% if page.previous.url %}
-                <div style="float:left"><a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div>
-                {% endif %}
-                {% if page.next.url %}
-                <div style="float:right"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></div>
-                {% endif %}
-            </div>
-        </div>
-    </div>
+<section id="docs">
+<div id="sidebar">
+    {% assign docs = site.docs | sort:"index" %}
+    {% for doc in docs %}
+    {% assign levels = doc.index | count_levels %}
+    {% assign style = "" %}
+    {% if levels == 2 %}{% assign style = "padding-left: 8px; font-size: 80%;" %}{% endif %}
+    {% if levels == 3 %}{% assign style = "padding-left: 16px; font-size: 70%;" %}{% endif %}
+    <div><a href="{{doc.url}}" class="w3-bar-item" style="{{style}}">{{ doc.index | replace_index }} {{ doc.title}}</a></div>
+    {% endfor %}
 </div>
+
+<div id="toc">
+</div>
+
+<div id="layout-content">
+    <div class="edit_page">
+        <a href="{{ site.github.repository_url }}/{{ page.path }}" title="Edit page">
+            <i class="fas fa-pen"></i>
+        </a>
+    </div>
+    <h1 class="first">{{page.title}}</h1>
+    {{ content }}
+</div>
+<div style="clear: both;"></div>
+<div class="page_navigation">
+    {% if page.previous.url %}
+    <div class="previous_page">
+        <a class="prev" href="{{page.previous.url}}">
+            <span>Previous</span><br>
+            <i class="fas fa-arrow-left"></i> {{page.previous.title}}
+        </a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="next_page">
+        <a class="next" href="{{page.next.url}}">
+            <span>Next</span><br>
+            {{page.next.title}} <i class="fas fa-arrow-right"></i>
+        </a>
+    </div>
+    {% endif %}
+</div>
+<div style="clear: both;"></div>
+</section>
 {% include footer.html %}
 
 

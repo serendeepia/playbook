@@ -92,19 +92,15 @@ a:hover, a:focus {
 }
 
 div.wrapper {
-  max-width: 860px;
+  max-width: 1100px;
   margin: auto;
-}
-
-div.wrapper-main {
-  padding-top: 80px;
 }
 
 header h1 {
   display: inline;
   float: left;
   font-family: $logo-font-stack;
-  font-size: 36px;
+  font-size: 24px;
   font-weight: bold;
   margin: 0 0 12px;
 }
@@ -1385,7 +1381,7 @@ img {
 }
 
 header {
-  padding: 16px 0 8px 0;
+  padding: 8px 0 4px 0;
   position: fixed;
   width: 100%;
   z-index: 2;
@@ -1398,7 +1394,7 @@ header {
 
 footer {
   font-size: 80%;
-  margin-top: 80px;
+  margin-top: 16px;
   padding: 60px 0 100px 0;
   -webkit-font-smoothing: subpixel-antialiased;
   background-color: $background-color;
@@ -1425,17 +1421,6 @@ strong {
 
 header h1 {
   margin-bottom: 4px;
-}
-
-header ul li + li + li {
-  border-right: none;
-  width: 89px;
-}
-
-header ul a strong {
-  font-size: 85%;
-  display: block;
-  color: $color-black;
 }
 
 small {
@@ -1582,6 +1567,79 @@ div.content-block-text-left {
 div.content-block-section h3 {
   margin: 40px 40px 10px 40px;
 }
+
+section#docs{
+  width: 1100px;
+  margin: 0 auto;
+  padding: 32px 0 0 0;
+}
+
+:target::before {
+  content:"";
+  display: block;
+  height: 64px;
+  margin: -64px 0 0;
+}
+
+div#layout-content{
+  width: 700px;
+  float: left;
+}
+
+div#sidebar{
+  font-size: 80%;
+  width: 200px;
+  float: left;
+  padding: 56px 64px 0 0;
+}
+
+div#toc{
+  font-size: 70%;
+  width: 200px;
+  float: right;
+  padding: 56px 0 0 64px;
+}
+
+div.edit_page{
+  float: right;
+  margin: 56px 16px 0 0;
+  font-size: 120%;
+}
+
+div.page_navigation{
+  margin: 80px 0 0 0;
+}
+
+div.previous_page{
+  float: left;
+  text-align: left;
+  line-height: 1.0em;
+}
+
+div.previous_page span{
+  padding: 0 0 0 38px;
+  font-size: 80%;
+}
+
+div.previous_page i{
+  padding: 0 16px 0 0;
+}
+
+div.next_page{
+  float: right;
+  text-align: right;
+  line-height: 1.0em;
+}
+
+div.next_page span{
+  padding: 0 38px 0 0;
+  font-size: 80%;
+}
+
+div.next_page i{
+  padding: 0 0 0 16px;
+}
+
 
 @media screen and (max-width: 880px) {
 
@@ -1773,19 +1831,6 @@ div.content-block-section h3 {
 
   header a.icon.responsive #menu-close {
     display: block;
-  }
-
-}
-
-@media screen and (max-width: 410px) {
-
-  header h1 {
-    font-size: 28px;
-  }
-
-  header h1 a span {
-    float: left;
-    margin: 12px 8px 0 8px;
   }
 
 }

@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link rel="icon" href="/favicon.ico">
     <title>{{ site.title | default: site.github.repository_name }} - {{ page.title }}</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <script>
         $(function() {
-            anchors.add('.post-content > h0, h1, h2, h3, h4, h5, h6');
+            anchors.add('.post-content > .wrapper-main h0, .wrapper-main h1, .wrapper-main h2, .wrapper-main h3, .wrapper-main h4, .wrapper-main h5');
         });
     </script>
     <link rel="stylesheet"  href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -32,7 +32,7 @@
 <header>
     <div class="wrapper">
     <h1><a href="/">
-        <img src="/assets/logo.svg" width="48px"/>
+        <img src="http://serendeepia.com/assets/logo.svg" width="32px"/>
         <span>{{ site.title | default: site.github.repository_name }}</span>
     </a></h1>
     <div style="clear: both"></div>

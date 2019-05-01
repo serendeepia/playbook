@@ -1,7 +1,7 @@
 ---
 layout: mylayout
 index: 01.01
-title: suborganization
+title: Suborganization
 ---
 
 Hello world!

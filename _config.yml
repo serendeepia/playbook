@@ -9,7 +9,7 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 exclude:
-  - 'serendeepia.github.io.iml'
   - 'Gemfile'
   - 'Gemfile.lock'
   - '.idea'
+  - '_docs_internal'

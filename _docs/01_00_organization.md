@@ -1,7 +1,7 @@
 ---
 layout: mylayout
 index: 01.00
-title: organization
+title: Organization
 ---
 
 Hello world!
