@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 04.03
+index: 4.3
 title: Developing
 ---
 

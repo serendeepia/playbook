@@ -1,5 +1,5 @@
 ---
 layout: mylayout
-index: 06.02
+index: 6.2
 title: Data management
 ---

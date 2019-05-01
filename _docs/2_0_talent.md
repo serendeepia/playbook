@@ -1,5 +1,5 @@
 ---
 layout: mylayout
-index: 02.00
+index: 2.0
 title: Talent
 ---

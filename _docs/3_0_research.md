@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 03.00
+index: 3.0
 title: Research
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 04.02
+index: 4.2
 title: Documentation
 ---
 

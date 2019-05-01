@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 02.01
+index: 2.1
 title: Hiring
 ---
 

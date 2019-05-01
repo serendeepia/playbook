@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 06.01
+index: 6.1
 title: Accounting
 ---
 

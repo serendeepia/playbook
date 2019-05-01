@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 01.00
+index: 1.0
 title: Organization
 ---
 

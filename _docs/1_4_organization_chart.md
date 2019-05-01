@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 01.04
+index: 1.4
 title: Organization Chart
 ---
 ## Management team

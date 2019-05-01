@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 05.00
+index: 5.0
 title: Marketing
 ---
 

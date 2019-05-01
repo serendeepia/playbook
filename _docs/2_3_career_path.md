@@ -1,5 +1,5 @@
 ---
 layout: mylayout
-index: 02.03
+index: 2.3
 title: Career Path
 ---

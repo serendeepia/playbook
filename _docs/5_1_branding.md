@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 05.01
+index: 5.1
 title: Brading
 ---
 

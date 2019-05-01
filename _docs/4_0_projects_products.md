@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 04.00
+index: 4.0
 title: Projects & products
 ---
 

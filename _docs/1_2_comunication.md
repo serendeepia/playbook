@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 01.02
+index: 1.2
 title: Comunication
 ---
 

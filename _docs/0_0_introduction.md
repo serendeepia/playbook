@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 00.00
+index: 0.0
 title: Introduction
 redirect_from:
   - index.html

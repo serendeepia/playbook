@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 04.01
+index: 4.1
 title: Methodology
 ---
 
@@ -14,7 +14,7 @@ We use Github issue tracking.
 
 We do not do versioning of source code. In case we need to do it we use semantic versioning (see [http://semver.org/](http://semver.org/)) and tag the commit as appropriate.
 
-# Data
+## Data
 
 Small dataset are under the `data/` directory of the project. We use git-lfs for large files. 
 
@@ -26,8 +26,6 @@ Some guidelines about the data:
 * We should use md5 or unique identifier for the files of the data when appropriate (for example for images downloaded from internet)
 * We should include a description file to describe the data, this file must be also in the github repository.
 
-
-# Communication
 
 ## Communication with the client
 

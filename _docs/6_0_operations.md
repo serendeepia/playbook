@@ -1,5 +1,5 @@
 ---
 layout: mylayout
-index: 06.00
+index: 6.0
 title: Operations
 ---

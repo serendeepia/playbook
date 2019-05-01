@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 07.00
+index: 7.0
 title: Code of conduct
 ---
 

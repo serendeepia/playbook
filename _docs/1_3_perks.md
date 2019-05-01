@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 01.03
+index: 1.3
 title: Perks
 ---
 

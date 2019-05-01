@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 05.03
+index: 5.3
 title: Sales
 ---
 [Sales Deck](https://docs.google.com/presentation/d/1ZnBgEjp_g68WjvYiab1pMQn49q2voq7NyZNG6S-Iqlw)

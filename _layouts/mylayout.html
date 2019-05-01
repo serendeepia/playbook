@@ -1,4 +1,4 @@
-{% include header.html %}
+{%- include header.html -%}
 <script>
     $(document).ready(function () {
         var toc = "";
@@ -7,10 +7,12 @@
             var titleText = $(this).text();
             var tagName = value.tagName;
             var style = "";
-            if (tagName === 'H2') {
-                style = "padding-left: 8px; font-size: 90%;"
+            if (tagName === 'H1') {
+                style = "font-weight: bold;";
+            } else if (tagName === 'H2') {
+                style = "font-size: 90%;";
             } else if (tagName === 'H3') {
-                style =  "padding-left: 16px; font-size: 80%;"
+                style = "padding-left: 8px; font-size: 80%;";
             }
             toc += "<div style=\"" + style + "\"><a href=\"#" +
                 anchor + "\" class=\"w3-bar-item\">" + titleText + "</a></div>";
@@ -21,14 +23,19 @@
 </script>
 <section id="docs">
 <div id="sidebar">
-    {% assign docs = site.docs | sort:"index" %}
-    {% for doc in docs %}
-    {% assign levels = doc.index | count_levels %}
-    {% assign style = "" %}
-    {% if levels == 2 %}{% assign style = "padding-left: 8px; font-size: 80%;" %}{% endif %}
-    {% if levels == 3 %}{% assign style = "padding-left: 16px; font-size: 70%;" %}{% endif %}
-    <div style="{{style}}"><a href="{{doc.url}}" class="w3-bar-item">{{ doc.index | replace_index }} {{ doc.title}}</a></div>
-    {% endfor %}
+    {%- assign docs = site.docs | sort:"index" -%}
+    {%- for doc in docs -%}
+    {%- assign style = "" -%}
+    {% assign index = doc.index | downcase %}
+    {%- unless index contains '.0' -%}
+        {%- assign style = "padding-left: 8px; font-size: 80%;" -%}
+    {%- endunless -%}
+    {%- assign index = index | replace: "0.0", "" | replace: ".0", "" | strip -%}
+    {%- unless index == '' -%}
+        {%- assign index = index | append: "."  -%}
+    {%- endunless -%}
+    <div style="{{ style }}"><a href="{{doc.url}}" class="w3-bar-item">{{ index }} {{ doc.title}}</a></div>
+    {%- endfor -%}
 </div>
 
 <div id="toc">
@@ -45,25 +52,25 @@
 </div>
 <div style="clear: both;"></div>
 <div class="page_navigation">
-    {% if page.previous.url %}
+    {%- if page.previous.url -%}
     <div class="previous_page">
         <a class="prev" href="{{page.previous.url}}">
             <span>Previous</span><br>
             <i class="fas fa-arrow-left"></i> {{page.previous.title}}
         </a>
     </div>
-    {% endif %}
-    {% if page.next.url %}
+    {%- endif -%}
+    {%- if page.next.url -%}
     <div class="next_page">
         <a class="next" href="{{page.next.url}}">
             <span>Next</span><br>
             {{page.next.title}} <i class="fas fa-arrow-right"></i>
         </a>
     </div>
-    {% endif %}
+    {%- endif -%}
 </div>
 <div style="clear: both;"></div>
 </section>
-{% include footer.html %}
+{%- include footer.html -%}
 
 

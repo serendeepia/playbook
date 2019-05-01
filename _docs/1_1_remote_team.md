@@ -1,6 +1,6 @@
 ---
 layout: mylayout
-index: 01.01
+index: 1.1
 title: Remote Team
 ---
 
