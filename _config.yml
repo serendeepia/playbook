@@ -9,3 +9,5 @@ exclude:
   - 'Gemfile.lock'
   - '.idea'
   - '_docs_internal'
+  - '.gitignore'
+  - 'CODEOWNERS'
