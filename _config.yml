@@ -1,0 +1,15 @@
+title: Serendeepia Playbook
+theme: jekyll-theme-minimal
+collections:
+  docs:
+    output: true
+    permalink: /:name
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '.idea'
+  - '_docs_internal'
