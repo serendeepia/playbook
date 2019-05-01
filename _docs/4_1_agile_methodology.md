@@ -49,7 +49,9 @@ We use Trello for tracking general tasks. We have 4 columns per project:
 
 Each task should have at least assigned one person.
 
-### Code issues
+### Code and project issues
 
 Issues in the code are tracked inside GitHub with its own tracking tool.
+
+[See all issues](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Aserendeepia+archived%3Afalse+) 
 

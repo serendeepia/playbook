@@ -28,6 +28,8 @@ We create pull requests when we want to submit anything to the master branch. Th
 
 No push to master
 
+[See all pull requests](https://github.com/pulls?utf8=✓&q=is%3Aopen+is%3Apr+user%3Aserendeepia+archived%3Afalse+) 
+
 ### Code owners
 
 We use GitHub and a file called CODEOWNER  (see [https://github.com/blog/2392-introducing-code-owners](https://github.com/blog/2392-introducing-code-owners)) in order to assign the reviewers automatically in every pull request.
