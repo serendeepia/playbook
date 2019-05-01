@@ -1,4 +1,8 @@
-# Recruitment process
+---
+layout: mylayout
+index: 02.01
+title: Hiring
+---
 
 This is the general process for to recruit any person for any position.
 
@@ -20,7 +24,7 @@ This is the general process for to recruit any person for any position.
     4. Screen the candidate by the actitude.
     5. Ask about salary expectations.
 7. Basic online questionary:
-    1. 5 or less basic question the candidate should know about the future tasks. Answers shoudl be short, less than 200 words.
+    1. 5 or less basic question the candidate should know about the future tasks. Answers should be short, less than 200 words.
     2. 2-3 questions about their interest/actitude in the job every day. 
 8. _Optional_: Take-Home project. The candidates have one or two weeks to complete the project and send the results by email.
 9. Videconference with the future team of the candidate:
@@ -32,3 +36,22 @@ This is the general process for to recruit any person for any position.
      3. Asses cultural fit. One negative vote from one member of the team is a red flag.
      4. Discuss conditions of the position with the candidate.
 10. Make an offer
+
+
+## Process
+
+## Test
+
+### Technical roles
+
+#### Data Scientist / Machine Learning Engineers
+
+#### Interns
+
+### Others
+
+## Interviews
+
+### Technical Interview
+
+### Cultural-fit Interview

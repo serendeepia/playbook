@@ -12,8 +12,8 @@
             } else if (tagName === 'H3') {
                 style =  "padding-left: 16px; font-size: 80%;"
             }
-            toc += "<div><a href=\"#" + anchor + "\" class=\"w3-bar-item\" style=\"" +
-                style + "\">" + titleText + "</a></div>";
+            toc += "<div style=\"" + style + "\"><a href=\"#" +
+                anchor + "\" class=\"w3-bar-item\">" + titleText + "</a></div>";
         });
 
         document.getElementById("toc").innerHTML +=  toc;
@@ -27,7 +27,7 @@
     {% assign style = "" %}
     {% if levels == 2 %}{% assign style = "padding-left: 8px; font-size: 80%;" %}{% endif %}
     {% if levels == 3 %}{% assign style = "padding-left: 16px; font-size: 70%;" %}{% endif %}
-    <div><a href="{{doc.url}}" class="w3-bar-item" style="{{style}}">{{ doc.index | replace_index }} {{ doc.title}}</a></div>
+    <div style="{{style}}"><a href="{{doc.url}}" class="w3-bar-item">{{ doc.index | replace_index }} {{ doc.title}}</a></div>
     {% endfor %}
 </div>
 
@@ -36,7 +36,7 @@
 
 <div id="layout-content">
     <div class="edit_page">
-        <a href="{{ site.github.repository_url }}/{{ page.path }}" title="Edit page">
+        <a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}" title="Edit page">
             <i class="fas fa-pen"></i>
         </a>
     </div>

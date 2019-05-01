@@ -1,4 +1,8 @@
-# Branding
+---
+layout: mylayout
+index: 05.01
+title: Brading
+---
 
 ## Images
 
@@ -6,6 +10,9 @@
 * Logo and name [[SVG](/images/logo_name.svg)] [[PNG](/images/logo_name.png)]
 * Name [[SVG](/images/name.svg)] [[PNG](/images/name.png)]
 * Bussines Card [[SVG](/images/business_card.svg)] [[PNG](/images/business_card.png)]
+* Bussines Card Back [[SVG](/images/business_card_back.svg)] [[PNG](/images/business_card_back.png)]
+* Banner [[PNG](/images/banner.png)]
+* Stamp [[SVG](/images/stamp.svg)] [[PNG](/images/stamp.png)]
 
 ## Colors
 

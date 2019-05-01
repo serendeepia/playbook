@@ -1,8 +1,10 @@
-# On Boarding for new hires
+---
+layout: mylayout
+index: 02.02
+title: On boarding
+---
 
-__Under development__
 
-Serendeepia must:
 
 1. Ask to complete a form with their data (name, email, github user, phone number, address, bank account, etc.) [Questions](https://docs.google.com/forms/d/10lq3vXxi7SCtlYMQF2ya9Y9lZgg3yzKflCZpLUn4OxY)
 2. Add their information to a common slides
