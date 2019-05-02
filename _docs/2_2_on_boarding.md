@@ -4,8 +4,6 @@ index: 2.2
 title: On boarding
 ---
 
-
-
 ## After you sing the contract
 
 We will need you to complete our survey to collect some personal information we need from you (the link to the survey is in [_docs_internal](https://github.com/serendeepia/playbook/tree/master/_docs_internal) ). 
@@ -14,20 +12,32 @@ We will need you to complete our survey to collect some personal information we 
 
 ### What we do
 
-* Add their information to a common slides
-* Add email in google apps (name.surname@serendeepia.com)
-* Add them to slack
-* Add them to GitHub if necessary
-* Add them to Clockify if necessary
+* Add their information to the website [team page](https://serendeepia.com/team.html)
+* Add email in Google Apps (name.surname@serendeepia.com)
+* Add them to [Slack](https://serendeepia.slack.com)
+* Add them to [GitHub](https://github.com/serendeepia) if necessary
+* Add them to [Clockify](https://clockify.me/teams) if necessary
 * Share the Personal Time Out calendar
 * Share some Google Drive folders if necessary
+* Add their information to our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU) if appropriate
+* Schedule a meeting to talk about the projects you are going to work on with your manager 
+* Schedule some meetings with people of your team to help you with all the configuration and set up so you can be productive as soon as possible
 
-### what you do
+### What you do
 
 You must prepare 2 or 3 slides to introduce yourself to the rest of the company. We expect to know more about you as a person: what things do you love, what are your hobbies, your goals in life, etc. You can make the slides as much fun as you want.
 
-We will use the last minutes of the all-hands weekly meet to introduce yourself.
+We will use the last minutes of the [weekly all-hands meeting](/1-2-communications#weekly-all-hands) to introduce yourself.
 
 ## When someone leaves us
 
-Well, we are going to be sad but life keeps moving.
+Well, we are going to be sad but life keeps moving and we wish the best to everybody. We will ask the person how leaves to give us feedback about the reasons they leave and some feedback about the company. We want to know the best and the worst things so we can encourage the good ones and fix the bad ones. Well this feedback is always welcome anyway.
+
+Some things we need to do:
+* Remove the user from [Slack](https://serendeepia.slack.com)
+* Remove the user from Google Apps
+* Remove the user from [GitHub](https://github.com/serendeepia)
+* Set as inactive the user in [Clockify](https://clockify.me/teams)
+* Remove the sensitive personal information from our survey records
+* Remove their information from our website [team page](https://serendeepia.com/team.html)
+* Remove their information form our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)

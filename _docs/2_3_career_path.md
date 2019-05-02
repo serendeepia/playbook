@@ -4,7 +4,7 @@ index: 2.3
 title: Career Path
 ---
 
-bla
+[One on one meetings](1-2-communication#one-on-one)
 
 ## Personal projects
  
