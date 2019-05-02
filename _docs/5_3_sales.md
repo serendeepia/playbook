@@ -3,6 +3,9 @@ layout: mylayout
 index: 5.3
 title: Sales
 ---
+
+[Slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)
+
 [Sales Deck](https://docs.google.com/presentation/d/1ZnBgEjp_g68WjvYiab1pMQn49q2voq7NyZNG6S-Iqlw)
 
 

@@ -92,7 +92,7 @@ a:hover, a:focus {
 }
 
 div.wrapper {
-  max-width: 1100px;
+  max-width: 700px;
   margin: auto;
 }
 
@@ -1197,8 +1197,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section h1, h2, h3, h4, h5, h6 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+  margin-top: 1.6em;
+  margin-bottom: 0.8em;
 }
 
 section h1{
@@ -1579,7 +1579,7 @@ div.content-block-section h3 {
 }
 
 section#docs{
-  width: 1100px;
+  width: 1180px;
   margin: 0 auto;
   padding: 32px 0 0 0;
 }
@@ -1598,9 +1598,9 @@ div#layout-content{
 
 div#sidebar{
   font-size: 90%;
-  width: 200px;
+  width: 240px;
   float: left;
-  padding: 56px 32px 0 0;
+  padding: 56px 64px 0 0;
 }
 
 div#sidebar div{
@@ -1609,9 +1609,9 @@ div#sidebar div{
 
 div#toc{
   font-size: 90%;
-  width: 200px;
+  width: 240px;
   float: right;
-  padding: 56px 0 0 32px;
+  padding: 56px 0 0 64px;
 }
 
 div#toc div{

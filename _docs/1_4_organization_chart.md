@@ -3,28 +3,29 @@ layout: mylayout
 index: 1.4
 title: Organization Chart
 ---
+
 ## Management team
 
-### Chief Executive Officer: Jorge Muñoz
-* Infrastructure
-* Configuration management
-* Accounting
-
-### Chief Business Development Officer: Raúl Arrabales
-* Customer communications
-* Project planning & budget
-* Accounting
-
-### Chief Innovation Officer: Francisco Javier Ordoñez
-* Product development
-* Research methodology & quality
-
-### Marketing & Operations Manager: Eva Lopez
-* Marketing
-* Administration
+* __Chief Executive Officer__: Jorge Muñoz
+	* Infrastructure
+	* Configuration management
+	* Accounting
+* __Chief Business Development Officer__: Raúl Arrabales
+	* Customer communications
+	* Project planning & budget
+	* Accounting
+* __Chief Innovation Officer__: Francisco Javier Ordoñez
+	* Product development
+	* Research methodology & quality
+* __Marketing & Operations Manager__: Eva Lopez
+	* Marketing
+	* Administration
 
 ## Machine Learning Engineers
+
 * Arturo Sánchez
 * Paula Queipo
 
-[Technical Team](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)
+## Resources
+
+* [Slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)

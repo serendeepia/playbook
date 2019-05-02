@@ -6,12 +6,8 @@ redirect_from:
   - index.html
 ---
 
-In this document we describe how we run our organization, how we plan our work, develop software and ensure its quality. This document is based on our experience, but also in the experience and study of others and is always evolving when we find a better way to do things.
+This playbook is a living document that explains how we run our organization, how we plan our work, develop software and ensure its quality, etc. We try to sum up here all our experience and the best practices to operate our company. 
 
-This playbook is a collaborative effort. It is a living document that everyone at thoughtbot can edit in a private GitHub repo. If you spot something that is wrong or you think something can be improved, feel free to hop in and correct it. Everyone at Serendeepia can edit this playbook by simply opening a Pull Request with the desired modifications. 
+Anyone at Serendeepia can edit this document at any time. So if you spot something that is wrong or you think something can be improved, feel free to hop in and correct it. Just press <i class="fas fa-pen"></i> in the page you want to fix, edit the [markdown](https://en.wikipedia.org/wiki/Markdown) file in GitHub and open a [Pull Request](https://help.github.com/en/articles/about-pull-requests) with the modifications.
 
-If you want to update anything please create a new pull requests and add all the members who need to be notified about the changes. Once all of them accept the pull request merge the new information. This information should not be updated often.
-
-Some docs are google documents because they need quick updates, others are included in this repository and should not be updated often.
-
-Other docs are internal under the folder _[_docs_internal](https://github.com/serendeepia/playbook/tree/master/_docs_internal)_.
+You will see that sometimes we link to documents in Google Drive that you cannot access because they contain information not accesible for everybody in Serendeepia or documents under the folder [_docs_internal](https://github.com/serendeepia/playbook/tree/master/_docs_internal) that we only share internally in Serendeepia. Well, we cannot make everything public (yet). `¯\_(ツ)_/¯`

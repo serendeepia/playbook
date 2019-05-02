@@ -4,6 +4,42 @@ index: 1.0
 title: Organization
 ---
 
-## English
+Serendeepia was born officially on May 11th 2018. The founders knew each other since before 2007. As you see it took some years and few thousand of km of distance but sometimes things are inevitable.
 
-Even though we don't live in an English-speaking country, all company’s communication is done in English. Regardless if it's a private slack chat or a large Basecamp discussion, We believe that's a necessity in order to better communicate with our offshore clients. Every mistake is a learning opportunity, so feedbacks to improve each other's English skills are very much welcomed.
+## Our Core Values
+
+* __Continuous learning__: We believe in a continuous personal grow by increasing your knowledge and skills.
+* __Visionaries__: We go beyond of status quo to develop new solutions and to discover new problems.
+* __World-class team__: We want to go far, that's why we must walk together, surrounded by the best ones.
+* __Challenge yourself__: We get out of our comfort zone, we like to face new challenges. We are not afraid of failing.
+* __Personal life__: We aim to grow in a pace that allow us a good balance between personal and professional live.
+
+## Why we do things
+
+__Passion__. Serendeepia was born because we saw an opportunity to follow our dreams and do what we love every day.
+
+## How we do things
+
+This playbook tries to answer this question, so keep reading until the end. But we can tell you now there are two important things we follow in Serendeepia as a remote company:
+* [Communication](/1-2-communication)
+* Well defined processes for [projects and products](/4-0-projects-products), [marketing](/5-0-marketing), [sales](/5-3-sales), [hiring](/2-1-hiring), etc
+
+## What things we do
+
+### Research
+
+We analyze your business challenge and design effective AI solutions based on the state of the art technology and tools.
+    
+### Products
+
+You can see some of our products in our [official products page](http://serendeepia.com/products.html).
+    
+### In-company courses and training
+
+We design custom training workshops and courses in the AI topics most relevant for your business.    
+
+### Consultancy
+
+We design, develop, train and test Deep Learning models, building advanced AI Minimum Viable Products.
+ 
+We identify key areas in your business where AI can have the maximum impact and we create a strategic roadmap planning.

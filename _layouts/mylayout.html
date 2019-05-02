@@ -53,18 +53,32 @@
 <div style="clear: both;"></div>
 <div class="page_navigation">
     {%- if page.previous.url -%}
+    {% assign index = page.previous.index | downcase %}
+    {%- unless index contains '.0' -%}
+    {%- endunless -%}
+    {%- assign index = index | replace: "0.0", "" | replace: ".0", "" | strip -%}
+    {%- unless index == '' -%}
+    {%- assign index = index | append: "."  -%}
+    {%- endunless -%}
     <div class="previous_page">
         <a class="prev" href="{{page.previous.url}}">
             <span>Previous</span><br>
-            <i class="fas fa-arrow-left"></i> {{page.previous.title}}
+            <i class="fas fa-arrow-left"></i> {{index}} {{page.previous.title}}
         </a>
     </div>
     {%- endif -%}
     {%- if page.next.url -%}
+    {% assign index = page.next.index | downcase %}
+    {%- unless index contains '.0' -%}
+    {%- endunless -%}
+    {%- assign index = index | replace: "0.0", "" | replace: ".0", "" | strip -%}
+    {%- unless index == '' -%}
+    {%- assign index = index | append: "."  -%}
+    {%- endunless -%}
     <div class="next_page">
         <a class="next" href="{{page.next.url}}">
             <span>Next</span><br>
-            {{page.next.title}} <i class="fas fa-arrow-right"></i>
+            {{index}} {{page.next.title}} <i class="fas fa-arrow-right"></i>
         </a>
     </div>
     {%- endif -%}
