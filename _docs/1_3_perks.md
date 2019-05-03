@@ -12,7 +12,7 @@ We are a [remote company](/1-1-remote-team), so you can work from whereever you 
 
 We try to follow a [regular workday](/1-1-remote-team#an-usual-workday) but we are flexible. We understand that not everybody performs good at the same time and we sometimes don't feel good enough to be productive. Organize yourself in the best way to be happy and productive. We know that feeling happy with a good balance between personal and professional live is important to achieve [our core values](1-0-organiziation#our-core-values).
 
-## Holidays and personal time out
+## Unlimited Vacation Policy
 
 PTO calendar:
 Some keywords:

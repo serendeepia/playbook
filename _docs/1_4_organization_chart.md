@@ -26,6 +26,6 @@ title: Organization Chart
 * Arturo Sánchez
 * Paula Queipo
 
-## Resources
+## Other Resources
 
 * [Slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)
