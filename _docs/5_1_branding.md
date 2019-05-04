@@ -1,12 +1,13 @@
 ---
 layout: mylayout
 index: 5.1
-title: Brading
+title: Branding
 ---
 
 ## Images
 
-* Logo [[SVG](/images/logo.svg)] [[PNG](/images/logo.png)]
+### Logo
+* Logo [[SVG](/images/logo.svg)] [[PNG 300x300](/images/logo.png)]
 * Logo and name [[SVG](/images/logo_name.svg)] [[PNG](/images/logo_name.png)]
 * Name [[SVG](/images/name.svg)] [[PNG](/images/name.png)]
 * Bussines Card [[SVG](/images/business_card.svg)] [[PNG](/images/business_card.png)]

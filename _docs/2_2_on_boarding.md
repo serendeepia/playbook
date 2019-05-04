@@ -12,14 +12,15 @@ We will need you to complete our survey to collect some personal information we 
 
 ### What we do
 
-* Add their information to the website [team page](https://serendeepia.com/team.html)
-* Add email in [Google Apps](https://admin.google.com/serendeepia.com) (name.surname@serendeepia.com)
-* Add them to [Slack](https://serendeepia.slack.com)
-* Add them to [GitHub](https://github.com/serendeepia) if necessary
-* Add them to [Clockify](https://clockify.me/teams) (both in Serendeepia and Serendeepia Workday) if necessary
+* Add your information to the website [team page](https://serendeepia.com/team.html)
+* Add you in [Google Apps](https://admin.google.com/serendeepia.com) (name.surname@serendeepia.com)
+* Add you to [Slack](https://serendeepia.slack.com)
+* Add you to [GitHub](https://github.com/serendeepia) if necessary
+* Add you to [Clockify](https://clockify.me/teams) (both in Serendeepia and Serendeepia Workday) if necessary
 * Share the Personal Time Out calendar
+* Add you to the [daily stand-up meeting](/1-2-communication#daily-stand-up) of your team.
 * Share some Google Drive folders if necessary
-* Add their information to our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU) if appropriate
+* Add your information to our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU) if appropriate
 * Schedule a meeting to talk about the projects you are going to work on with your manager 
 * Schedule some meetings with people of your team to help you with all the configuration and set up so you can be productive as soon as possible
 
@@ -38,9 +39,9 @@ We will need you to complete our survey to collect some personal information we 
 Well, we are going to be sad but life keeps moving and we wish the best to everybody. We will ask the person how leaves to give us feedback about the reasons they leave and some feedback about the company. We want to know the best and the worst things so we can encourage the good ones and fix the bad ones. Well this feedback is always welcome anyway.
 
 Some things we need to do:
-* Remove the user from [Slack](https://serendeepia.slack.com)
-* Remove the user from [Google Apps](https://admin.google.com/serendeepia.com)
-* Remove the user from [GitHub](https://github.com/serendeepia)
+* Remove them from [Slack](https://serendeepia.slack.com)
+* Remove them from [Google Apps](https://admin.google.com/serendeepia.com)
+* Remove them from [GitHub](https://github.com/serendeepia)
 * Set as inactive the user in [Clockify](https://clockify.me/teams) (both in Serendeepia and Serendeepia Workday)
 * Remove the sensitive personal information from our [survey records](https://docs.google.com/spreadsheets/d/1MyiSmkIOj1Q2q1G-SAG_h3--cU54GFeHnpPbZudE0fI)
 * Remove their information from our website [team page](https://serendeepia.com/team.html)

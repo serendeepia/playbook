@@ -16,11 +16,15 @@ We have default templates for the code style for IntellJ Idea in the repo: [http
 
 ## Documentation
 
-All code must be documented. Python code must include stubs (see [https://github.com/python/mypy/wiki/Creating-Stubs-For-Python-Modules](https://github.com/python/mypy/wiki/Creating-Stubs-For-Python-Modules)) in order to help the ide for the autocompletion and semantic checks.
+All code must be documented. 
+
+Python code must include stubs (see [https://github.com/python/mypy/wiki/Creating-Stubs-For-Python-Modules](https://github.com/python/mypy/wiki/Creating-Stubs-For-Python-Modules)) in order to help the ide for the autocompletion and semantic checks.
 
 ## Unit testing
 
-The code under `src/` must contain unit test for most important parts. In case of python we use unittest (see [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)).
+The code under `src/` must contain unit test for most important parts. 
+
+For Python we use unittest (see [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)).
 
 ## Code review & Pull requests
 

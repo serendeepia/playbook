@@ -4,54 +4,57 @@ index: 2.1
 title: Hiring
 ---
 
-This is the general process for to recruit any person for any position.
+Hiring [talent](/2-0-talent) is one of the key ares of our company. We are open with our process and we follow it for any position.
 
-1. Write a position description.
-2. Post the position in the web and in other platforms to locate candidates.
-3. Add the candidate to [trello](https://trello.com/b/mhFU3KPU/recruitment) in the _apply_ column with its CV and the seniority. Also add the CV to the [CV folder](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O).
-4. Resume review.
-    1. Screen out candidate whose skills do not make sense together.
-    2. Review relevant past projects of the candidate.
-5. _Optional_: Contact the candidate by email to make a phone call.
-6. Contact the candidate by phone/videoconference:
-    1. Describe the company to the candidate with the key messages from the marketing plan:
-        1. Vision.
-        2. Mission.
-        3. We are: researchers, entrepreneurs, multidisciplinar team and international.
-        4. We do: research, MVPs, training and strategy.
-    2. Describe the recruitment process to the candidate (we do no have deadlines for the process, we search for the right person).
-    3. Ask about the interest of the candidate in the position and the company.
-    4. Screen the candidate by the actitude.
-    5. Ask about salary expectations.
-7. Basic online questionary:
-    1. 5 or less basic question the candidate should know about the future tasks. Answers should be short, less than 200 words.
-    2. 2-3 questions about their interest/actitude in the job every day. 
-8. _Optional_: Take-Home project. The candidates have one or two weeks to complete the project and send the results by email.
-9. Videconference with the future team of the candidate:
-    1. Review the take-home project:
-        1. Review and defend the home project. Should be able to communicate properly.
-        2. Asses the approach to handle the problem.
-        3. Ask about different scenarios about the problem.
-     2. Interview with someone from the management team.
-     3. Asses cultural fit. One negative vote from one member of the team is a red flag.
-     4. Discuss conditions of the position with the candidate.
-10. Make an offer
-
+You can find our [open positions](http://serendeepia.com/careers.html) in the website.
 
 ## Process
 
-## Test
+This is the general process for any type of position, but it can have modifications depending on the position needs. This is also a two way process, we are assessing candidates but we expect the candidates to do the same with us. So you are free to ask any question any time. We want to be sure who we hire the same way we want you to be sure who are you working with.
 
-### Technical roles
+### Timeline
 
-#### Data Scientist / Machine Learning Engineers
+We don't have a fixed timeline for the whole process, it can take a couple of weeks or a couple of months. We are not in a rush to hire, we like to wait for the right person.
 
-#### Interns
+### The job position
 
-### Others
+The first step is to define the requirements of the job position. We think and write what the candidate will be doing and the requirements and skills for that position. We usually list the mandatory skill, the minimum skills we need in the candidate, and the desirable skills, the skills the candidate will need to do a better job and can learn while doing it.
 
-## Interviews
+### Collect CV of candidates
 
-### Technical Interview
+Find the best platform for the target candidate and post the job there. Bonus point if the candidates comes form a reliable source and with good references.
+
+Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.com) we store it in [Google Drive](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O) and add a card in [Trello](https://trello.com/b/mhFU3KPU/recruitment) under 
+
+### The first contact
+
+If we think your CV makes sense and fits our needs now or in the future we will contact you. Otherwise we will drop out the CV. We try to reply to all the people who send us an email but we hope you understand that sometimes it is impossible to do so.
+
+If we like you we send an email to know when is the best time to call you, either by phone or by videoconference. This is only a first contact to have a small talk about [the company](/1-0-organization) (what we do and why we do it) and the interest of the candidate in the company, the position and the salary expectations. We also use this first contact to see your actitude and your skills to work remotely. If we both are aligned, also in the salary expectations, we will continue with the process.
+
+### Home assigment
+
+For most position we will ask you to complete a small home assigment. This assigment is usually very easy to complete. The goals of the assigment are to asses:
+* your way of thinking while solving a problem
+* your communication skills
+* your actitude while working
+* your interest in the company
+* your skills (we expect different things for different position even if the home assigment is the same)
+
+As a candidate you must return the home assignment by email following the instructions. It is important for us that you are able to follow [the processes](/6-0-operations) we have in the company.
+
+### Technical interview
+
+If we don't see anything very wrong in the assigment we will continue with a technical interview, starting with the most revelant candidates.
+
+In the technical interview we will review the solution of your assigment and we will use it for a more deeply discussion to asses your knowledge and it fits the company needs. We usually pose different scenarios and discuss the areas where the candidate has more experience or the more relevant for the position.
 
 ### Cultural-fit Interview
+
+This could be the last interview and usually senior members of the company are present. Once you reach this point in the process we know you can technically do the job, but we want to be sure you fit in the culture in the company. So this process will be a normal talk with more people in the company to get to know your better. We will also discuss all the conditions of the position during this interview.
+
+### Final decision
+
+We like to take the final decision based on objective metrics, but a negative vote from one member of the team during all the process means the candidate is likely to be excluded from the process.
+
+If we think everything will be good for both sides, we will send you an offer and give you some time to decided whether you should take it or not.
