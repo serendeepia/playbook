@@ -65,6 +65,10 @@ We usually cover several topics in these meetings:
 * __Product & Engineering__: what are the products we are working on and what is their current status, latest features released, etc.
 * __Research & Innovation__: anything related with research or innovation that is worth to share, both from within the company and from international researchers/companies. 
 
+#### Quarter update
+
+At the end of a quarter we add information to the week all-hands about the financial status of the company and the run away in months.
+
 ### Team meetings
 
 We strongly suggest teams to self organize meetings, some of them are mandatory as they are part of the [agile methodology](/4-1-agile-methodology).

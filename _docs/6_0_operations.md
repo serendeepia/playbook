@@ -17,4 +17,5 @@ We sum up in this section the main operations within the company that are descri
 1. Review the [issues](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Aserendeepia+archived%3Afalse+)  and [pull requests](https://github.com/pulls?utf8=✓&q=is%3Aopen+is%3Apr+user%3Aserendeepia+archived%3Afalse+)  in GitHub.
 1. Organize your day
 1. Prepare the [stand-up meeting](https://serendeepia.slack.com/messages/CFN4L2VLJ/).
+1. Learn something new, for example read a research paper.
 

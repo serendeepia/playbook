@@ -31,7 +31,7 @@ All this information must be included in the README.md file of the experiment.
 
 See the [project structure](/4-2-documentation#project-structure) for the main guidelines.
 
-After the exploratory analysis we add the future lines of research as issues labeled as `enhancements` in GitHub. This way we can assign future experiments and know who is working at what. Every time we finish and experiment and we describe the future lines of research we must add these ones as GitHub issues with the label "enhancement" too.
+After the exploratory analysis we add the future lines of research as issues labeled as `enhancements` in GitHub. This way we can assign future experiments and know who is working at what. Every time we finish and experiment and we describe the future lines of research we must add these ones as GitHub issues with the label "enhancements" too.
 
 ### How to document the experiments
 

@@ -30,6 +30,7 @@ We will need you to complete our survey to collect some personal information we 
 * Add your information to the [organization chart](/1-4-organization-chart). Ask for help to your manager if you don't know where do you fit exactly.
 * Say hello in [Slack](https://serendeepia.slack.com/messages/C7D0YUBL1/) in the `_general` channel.
 * Check your new email account
+* Add your [email signature](/5-1-branding#email-signature)
 * Check your GitHub access to Serendeepia
 * Accept the invitations for the first meetings with your team
 * Read the whole [Playbook](/)
