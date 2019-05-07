@@ -16,6 +16,8 @@ Our typical project is between one and three months long and we divide it in spr
 
 A sprint is a timeboxed effort; that is, it is restricted to a specific duration. Each sprint starts with a sprint planning event that aims to define a sprint backlog, identify the work for the sprint, and make an estimated forecast for the sprint goal. Each sprint ends with a sprint review and sprint retrospective, that reviews progress to show to stakeholders and identify lessons and improvements for the next sprints.
 
+We create [milestones in GitHub](https://help.github.com/en/articles/about-milestones) as a way to represent a sprint and to prioritize the tasks.
+
 ### Sprint planning
 
 At the beginning of a sprint, the scrum team holds a sprint planning event to:
@@ -45,7 +47,7 @@ Our kanban boards have 5 columns:
 
 ## Project tracking
 
-We use Github [issue tracking](https://guides.github.com/features/issues/) to define tasks and [projects boards](https://help.github.com/en/articles/about-project-boards).
+We use Github [issue tracking](https://guides.github.com/features/issues/) to define tasks and [projects boards](https://help.github.com/en/articles/about-project-boards) to track the status of the projects (and sprints).
 
 Our issues or tasks can have different labels depending on their nature:
 * `enhancement`: new feature or request
