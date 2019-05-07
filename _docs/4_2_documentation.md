@@ -4,7 +4,7 @@ index: 4.2
 title: Documentation
 ---
 
-We use online tools to store all the documentation. The documents are in a shared folder in Google Drive. This is the root structure we follow:
+We use online tools to store all the documentation. The documents for the projects are in a [shared folder in Google Drive](https://drive.google.com/drive/folders/1kr-fXFh-nadoEbBk0vhtwR7fWbHsHEdL). This is the root structure we follow:
 
 <table>
   <tr>
@@ -20,6 +20,10 @@ We use online tools to store all the documentation. The documents are in a share
     <td>Example of a directory for a project. These directories must be named with the date first so they are easier to sort this way.</td>
   </tr>
 </table>
+
+We have have one [shared folder for clients](https://drive.google.com/drive/folders/16eZh2PkjjNmSiNc4KsQMQ4BmRZrxySTY?usp=sharing) that follows the same structure as the projects. This shared folder for clients contains only legal documents and the offer and budget documents of the projects. These documents are not related with the development of the project.
+
+## Structure of a project
 
 This is the structure per project:
 
@@ -46,12 +50,11 @@ This is the structure per project:
   </tr>
 </table>
 
-The documents must have the versioning activated and we should name the versions with two numbers. The first one implies big changes and the second implies additions. Typos and bugs do not modify the version number.
+The documents must have the versioning activated and we should name the versions with two numbers. The first one implies big changes and the second implies additions. Typos and bugs do not modify the version number, unlikely in [semantic versioning](http://semver.org/).
 
 One person is in charge of each document.
 
-
-## Project structure
+## Code organization
 
 _NOTE: the structure might be different for public projects as needed_
 
