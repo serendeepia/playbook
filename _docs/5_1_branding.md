@@ -42,13 +42,13 @@ You can also find it in the document: [Email signature](https://drive.google.com
 ## Images
 
 ### Logo
-* Logo [[SVG](/images/logo.svg)] [[PNG 300x300](/images/logo.png)]
-* Logo and name [[SVG](/images/logo_name.svg)] [[PNG](/images/logo_name.png)]
-* Name [[SVG](/images/name.svg)] [[PNG](/images/name.png)]
-* Business Card [[SVG](/images/business_card.svg)] [[PNG](/images/business_card.png)]
-* Business Card Back [[SVG](/images/business_card_back.svg)] [[PNG](/images/business_card_back.png)]
-* Banner [[PNG ](/images/banner.png)]
-* Stamp [[SVG](/images/stamp.svg)] [[PNG](/images/stamp.png)]
+* Logo [[SVG](/assets/images/logo.svg)] [[PNG 300x300](/assets/images/logo.png)]
+* Logo and name [[SVG](/assets/images/logo_name.svg)] [[PNG](/assets/images/logo_name.png)]
+* Name [[SVG](/assets/images/name.svg)] [[PNG](/assets/images/name.png)]
+* Business Card [[SVG](/assets/images/business_card.svg)] [[PNG](/assets/images/business_card.png)]
+* Business Card Back [[SVG](/assets/images/business_card_back.svg)] [[PNG](/assets/images/business_card_back.png)]
+* Banner [[PNG ](/assets/images/banner.png)]
+* Stamp [[SVG](/assets/images/stamp.svg)] [[PNG](/assets/images/stamp.png)]
 
 ## Colors
 
