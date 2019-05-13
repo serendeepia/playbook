@@ -4,7 +4,7 @@ index: 6.2
 title: Data management
 ---
 
-We try to be an open company and keep must of our data public but there are some cases when we need to follow the law and keep the data private and restricted to only few members in the organization. We describe below our privacy policy and our data breach policy.
+We try to be an open company and keep most of our data public but there are some cases when we need to follow the law and keep the data private and restricted to only few members in the organization. We describe below our privacy policy and our data breach policy.
 
 ## Security
 
@@ -246,4 +246,8 @@ The DPO will review and monitor this policy regularly to make sure it is effecti
 
 We take compliance with this policy very seriously. Failure to comply puts both you and the organization at risk.
 
+<<<<<<< HEAD
 The importance of this policy means that failure to comply with any requirement may lead to disciplinary action under our procedures which may result in dismissal.
+=======
+The importance of this policy means that failure to comply with any requirement may lead to disciplinary action under our procedures which may result in dismissal.
+>>>>>>> origin/master
