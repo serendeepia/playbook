@@ -246,4 +246,8 @@ The DPO will review and monitor this policy regularly to make sure it is effecti
 
 We take compliance with this policy very seriously. Failure to comply puts both you and the organization at risk.
 
+<<<<<<< HEAD
 The importance of this policy means that failure to comply with any requirement may lead to disciplinary action under our procedures which may result in dismissal.
+=======
+The importance of this policy means that failure to comply with any requirement may lead to disciplinary action under our procedures which may result in dismissal.
+>>>>>>> origin/master

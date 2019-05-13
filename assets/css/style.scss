@@ -1579,7 +1579,7 @@ div.content-block-section h3 {
 }
 
 section#docs{
-  width: 1180px;
+  max-width: 1180px;
   margin: 0 auto;
   padding: 32px 0 0 0;
 }
@@ -1592,7 +1592,7 @@ section#docs{
 }
 
 div#layout-content{
-  width: 700px;
+  max-width: 700px;
   float: left;
 }
 
@@ -1625,7 +1625,7 @@ div.edit_page{
 }
 
 div.page_navigation{
-  margin: 80px 0 0 0;
+  margin: 64px 0 0 0;
 }
 
 div.previous_page{
@@ -1659,6 +1659,50 @@ div.next_page i{
 }
 
 
+@media screen and (max-width: 1180px) {
+
+  div#sidebar{
+    width: 200px;
+    padding: 56px 32px 0 8px;
+  }
+  div#toc{
+    width: 200px;
+    padding: 56px 8px 0 32px;
+  }
+
+  div.page_navigation{
+    padding: 0 8px;
+  }
+
+}
+
+@media screen and (max-width: 1100px) {
+
+  div#toc{
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 900px) {
+
+  div#sidebar{
+    margin-bottom: 32px;
+  }
+
+  div#toc{
+    //display: none;
+  }
+
+  div#layout-content{
+    width: auto;
+    float: none;
+    margin: 0 16px;
+  }
+
+}
+
+
 @media screen and (max-width: 880px) {
 
   header, footer, form {
@@ -1669,10 +1713,6 @@ div.next_page i{
 }
 
 @media screen and (max-width: 840px) {
-
-  div.wrapper-main {
-    padding-top: 116px;
-  }
 
   div.container-fluid {
     max-width: 700px;
@@ -1734,6 +1774,10 @@ div.next_page i{
 }
 
 @media screen and (max-width: 600px) {
+
+  div.edit_page{
+    display: none;
+  }
 
   footer div.footer_social {
     padding-right: 0;
@@ -1800,10 +1844,6 @@ div.next_page i{
 }
 
 @media print, screen and (max-width: 500px) {
-
-  div.wrapper-main {
-    padding-top: 70px;
-  }
 
   footer {
     padding: 40px 0 60px 0;
