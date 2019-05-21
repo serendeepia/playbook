@@ -4,15 +4,15 @@ index: 1.0
 title: Organization
 ---
 
-Serendeepia was born officially on May 11th 2018. The founders knew each other since before 2007. As you see it took some years and few thousand of km of distance but sometimes things are inevitable.
+Serendeepia was born officially on May 11th 2018. The founders knew each other since before 2007. As you see it took some years and few thousand of km of distance, but sometimes things are inevitable.
 
 ## Our Core Values
 
-* __Continuous learning__: We believe in a continuous personal grow by increasing your knowledge and skills.
-* __Visionaries__: We go beyond of status quo to develop new solutions and to discover new problems.
+* __Continuous learning__: We believe in a continuous personal growth by increasing your knowledge and skills.
+* __Visionaries__: We go beyond the status quo to develop new solutions and to discover new problems.
 * __World-class team__: We want to go far, that's why we must walk together, surrounded by the best ones.
-* __Challenge yourself__: We get out of our comfort zone, we like to face new challenges. We are not afraid of failing.
-* __Personal life__: We aim to grow in a pace that allow us a good balance between personal and professional live.
+* __Challenge yourself__: We're used to get out of our comfort zone, we like to face new challenges. We are not afraid of failing.
+* __Personal life__: We aim to grow at a pace that allow us a good balance between personal and professional lives.
 
 ## Why we do things
 
@@ -28,7 +28,7 @@ This playbook tries to answer this question, so keep reading until the end. But 
 
 ### Research
 
-The key component in Serendeepia is the research. We like new challenges, we like to keep improving and learning new things. For those reasons we like to face business challenges and design effective AI solutions based on our expertize. Of course we follow the [scientific method](3-0-research#scientific-method) and other [good engineering practices](/3-0-research). Our research is also [open source]((/3-0-research#open-source)).
+The key component in Serendeepia is the research. We like new challenges, we like to keep improving and learning new things. For those reasons we like to face business challenges and design effective AI solutions based on our expertise. Of course, we follow the [scientific method](3-0-research#scientific-method) and other [good engineering practices](/3-0-research). Our research is also [open source]((/3-0-research#open-source)).
     
 ### Products
 
@@ -36,7 +36,7 @@ We build products based on the state of the art research with the aim to solve p
     
 ### In-company courses and training
 
-Knowledge wouldn't be important if you cannot spread it. We like to help other companies to develop their AI capabilities. We design custom training workshops and courses in the AI topics most relevant for your business. Along with this coursers we help the companies to create their first prototypes in AI to solve some of their business needs.
+Knowledge wouldn't be useful if you cannot spread it. We like to help other companies to develop their AI capabilities. We design custom training workshops and courses in the most relevant AI topics for your business. Along with this courses, we help the companies to create their first prototypes in AI to solve some of their business needs.
 
 ### Consultancy
 
