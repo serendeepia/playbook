@@ -20,6 +20,7 @@ title: Organization Chart
 * __Marketing & Operations Manager__: Eva Lopez
 	* Marketing
 	* Administration
+	* Human Resources
 
 ## Machine Learning Engineers
 
