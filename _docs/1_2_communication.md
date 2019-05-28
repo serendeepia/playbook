@@ -4,11 +4,11 @@ index: 1.2
 title: Communication
 ---
 
-We are a remote company, and therefore, communication is one of the most important thing along with well defined processes. Remember not everybody is at same timezone you are in, so responds can take some time.
+We are a remote company, and therefore, communication is really important, along with well defined processes. Remember not everybody is at the same timezone you are in, so responds can take some time.
 
 ## English
 
-Although our headquarters are in a non English-speaking country, we are a remote company and international company, so we try to make all communication inside the company in English. You don't have to talk in English in the private slack channels but it is mandatory to speak English when someone is present, or can read the conversation later, and doesn't share your native language.
+Although our headquarters are in a non English-speaking country, we are a remote and international company, so we try to make all communication inside the company in English. You don't have to talk in English in the private slack channels but it is mandatory to speak English when someone is present, or can read the conversation later, and doesn't share your native language.
 
 ## Slack
 
@@ -16,25 +16,25 @@ We use [Slack](https://serendeepia.slack.com) for instant communication. Everybo
 
 We try to talk in public channels so the rest of the team can be aware of the conversation and hop to help anytime. We avoid private communication as much as possible.
 
-Slack is not always the best solution. Sometimes it is faster to jump into a videconference in [Google Meet](https://meet.google.com) and talk than keep writing. Then come back and write your conclusions in the channel so everybody can be aware of what have been decided.
+Slack is not always the best solution. Sometimes it is faster to jump into a videconference in [Google Meet](https://meet.google.com) and talk rather than keep writing. Then, come back and write your conclusions in the channel so everybody can be aware of what has been decided.
 
 ## Meetings
 
-Meetings are necessary but they can become the root of some problems if you have too many or they are too long. Try to stick to the mandatory meetings with occasional meetings from time to time when they are really necessary.
+Meetings are necessary, but they can become the root of some problems, if you have too many or they are too long. Try to stick to the mandatory meetings with occasional meetings from time to time when they are really necessary.
 
 ### General recommendations
 
 If you are hosting a meeting:
 
-* Always send a calendar invite. No matter how quick you plan the meeting to be, make sure you send an invite. This is important so nobody never miss a meeting. Also, too many meetings are harmful for productivity.
-* Try to add an agenda describing what is going to be discussed in the meeting and its goal. Meetings without an agenda are doomed to be unproductive.
+* Always send a calendar invite. No matter how quick you plan the meeting to be, make sure you send an invite. This is important so nobody never misses a meeting. Also, too many meetings are harmful for productivity.
+* Try to add an agenda describing what is going to be discussed in the meeting and its goals. Meetings without an agenda are doomed to be unproductive.
 * Try schedule meetings beforehand and not just hop in for a call at any time. Meetings sometimes need preparation. 
 * Check the invitee's calendars before sending an invitation, ensuring that everyone will be able to attend the meeting.
 
 If you are participating:
 
 * Take notes during the meeting and save them somewhere accessible later so you can review what you talked about and the decisions you took.
-* You should get used to accept or rejects meetings. This will help you and your team to know that you are aware of the meeting or that you cannot attend and the meeting might need to be reschedule.
+* You should get used to accept or reject meetings. This will help you and your team to know that you are aware of the meeting or that you cannot attend it and the meeting might need to be rescheduled.
 
 Other recommendations:
 
@@ -56,10 +56,10 @@ In order to make the stand-up more efficient and keep track of this information 
 
 ### Weekly All-hands
 
-We run [weekly all-hands meetings](https://blog.sli.do/what-is-an-all-hands-meeting-and-why-should-you-start-having-one/) where everybody in the company attend. We use these meetings to keep all the company aligned and to let everybody know what other teams in the company are working in and their progress. We also have [slides for the weekly all-hands](https://docs.google.com/presentation/d/18qVRzTrHwUVy5TnuEp_pp-7_Cskpllg3I3qnu1NJ9qw) where we keep our old all-hands to keep track of them. 
+We run [weekly all-hands meetings](https://blog.sli.do/what-is-an-all-hands-meeting-and-why-should-you-start-having-one/) where everybody in the company attend. We use these meetings to keep all the company aligned and to let everybody know what other teams in the company are working on and their progress. We also have [slides for the weekly all-hands](https://docs.google.com/presentation/d/18qVRzTrHwUVy5TnuEp_pp-7_Cskpllg3I3qnu1NJ9qw) where we keep our old all-hands to keep track of them. 
 
 We usually cover several topics in these meetings:
-* __News, Company Updates & KPIs__: what is happening that is relevant for everybody like achievements, progress of the company or any news of interets.
+* __News, Company Updates & KPIs__: what is happening that is relevant for everybody, like achievements, progress of the company or any news of interest.
 * __Marketing__: how is our marketing strategy going, what are we doing and why.
 * __Sales pipeline__: we track our sales pipeline for current and future customers.
 * __Product & Engineering__: what are the products we are working on and what is their current status, latest features released, etc.
@@ -75,6 +75,6 @@ We strongly suggest teams to self organize meetings, some of them are mandatory 
 
 ### One on One
 
-The [one on one meetings](https://medium.com/swlh/how-to-run-the-best-one-on-one-meetings-a2e001e64612) are a way to connect the managers with the people who reports to them. This is the best opportunity to raise issues to your manager and also to get to know each other more deeply. You don't have to talk only about work in you one on one meetings. Actually we suggest you to also use them as some help you with your [career path](/2-3-career-path).
+The [one on one meetings](https://medium.com/swlh/how-to-run-the-best-one-on-one-meetings-a2e001e64612) are a way to connect the managers with the people who reports to them. This is the best opportunity to raise issues to your manager and also to get to know each other more deeply. You don't have to talk only about work in your one on one meetings. Actually, we suggest you to also use them for some help with your [career path](/2-3-career-path).
 
 One on one meetings should be done every 2 weeks and last 30 minutes.
