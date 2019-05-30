@@ -42,8 +42,8 @@ Our kanban boards have 5 columns:
 * `TO DO`: tasks to be done
 * `In Progress`: tasks we are working right now, noone should work in more than a thing at a time.
 * `Review in progress`: tasks completed which require to be reviewed by other team members
-* `Review approved`: task approved and ready to merge with the main code of the project
-* `Done`: task completed
+* `Review approved`: tasks approved and ready to merge with the main code of the project
+* `Done`: tasks completed
 
 ## Project tracking
 
@@ -51,26 +51,26 @@ We use Github [issue tracking](https://guides.github.com/features/issues/) to de
 
 Our issues or tasks can have different labels depending on their nature:
 * `enhancement`: new feature or request
-* `bug`: something that is not working as expecting and needs a fix
-* `duplicated`: this task/issue was a duplicated of other
+* `bug`: something that is not working as expected and needs a fix
+* `duplicated`: this task/issue was a duplicate of other one
 * `question`: more information is needed
-* `wontfix`: this task/issue wont be resolved
+* `wontfix`: this task/issue won't be resolved
 
-The boards in GitHub are automated, this means we don not need to move the issues from one column to another. They move automatically.
+The boards in GitHub are automated, this means we don't need to move the issues from one column to another. They move automatically.
 
 ## Versioning
 
-We do not do versioning of source code but we do name every sprint release with an increase number. In case we need to do it we use semantic versioning (see [http://semver.org/](http://semver.org/)) and tag the commit as appropriate.
+We do not do versioning of source code but we do name every sprint release with an increase number. In case we need to do it, we use semantic versioning (see [http://semver.org/](http://semver.org/)) and tag the commit as appropriate.
 
 ## Data
 
-Small dataset are under the `data/` directory of the project. We use git-lfs for large files. 
+Small datasets are under the `data/` directory of the project. We use git-lfs for large files. 
 
-Big datasets can be in gs or aws. Ideally we synchronize the data locally to the machine when the training is going to be performed when needed.
+Big datasets can be in gs or aws. Ideally, we synchronize the data locally to the machine when the training is going to be performed when needed.
 
 Some guidelines about the data:
 * We shouldn’t delete any data sample
-* We should use md5 or unique identifier for the files of the data when appropriate (for example for images downloaded from internet)
+* We should use md5 or a unique identifier for the files of the data when appropriate (for example for images downloaded from internet)
 * We should include a description file to describe the data, this file must be also in the github repository.
 
 
