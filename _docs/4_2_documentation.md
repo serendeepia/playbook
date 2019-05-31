@@ -30,7 +30,7 @@ This is the structure per project:
 <table>
   <tr>
     <td>(project root dir)</td>
-    <td>Contains working documents we won't send to the client never</td>
+    <td>Contains working documents we will never send to the client.</td>
   </tr>
   <tr>
     <td><code>Deliverable/</code></td>
