@@ -10,13 +10,13 @@ Either we are working on consultancy projects for other companies or internal pr
 
 ### Envisioning
 
-The Envisioning of a product asses the initial ideal for a product or solution. During this phase the next questions need to be answered:
+The Envisioning of a product asses the initial idea for a product or solution. During this phase the next questions need to be answered:
 
 * What are the problems or pain points the idea tries to solve?
 * What is the root use case?
 * What are the alternatives? What is currently being done to solve the pain points?
 * What is the economical impact of the idea?
-* How the idea affect the business/market?
+* How the idea affects the business/market?
 * What is the state of the art?
 * Is the development viable?
 
@@ -39,7 +39,7 @@ Once the MVP is launched we follow its impact in the target market over a period
 ### Scale-up and improvements
 
 We can scale up the product in two ways:
-* _vertically_: we keep on adding new features so we cover more use cases with the same product,
+* _vertically_: we keep on adding new features so we cover more use cases with the same product.
 * _horizontally_: we keep improving the use case of the product so it does better what it is suppose to do.
 
 ### Mature operation
