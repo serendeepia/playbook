@@ -10,7 +10,7 @@ See the [organization](/1-0-organization) section.
 
 ## Channels
 
-We show here our main channels of communication and the type of content we promote in each one. 
+Here, you can find our main channels of communication and the type of content we promote in each one. 
 
 We use [Hootsuite](https://hootsuite.com/) to schedule our content in social networks.
 
@@ -20,7 +20,7 @@ Conferences are the main place to know people and companies interested in [what 
 
 #### When you are the speaker
 
-The most important is that you enjoy the conference. We suggest you to follow the next steps:
+The most important thing is that you enjoy the conference. We suggest you to follow the next steps:
 
 1. Know your audience and adapt the contents for them
 1. Know the place where the talk is going to be and adapt the slides
@@ -33,17 +33,17 @@ Some general suggestions about slides:
 * You shouldn't need them, they are only there to show some extended information but the audience should pay you more attention that to the slides.
 * Don't add to much data in one slide (avoid using too many words or the audience will be reading instead of listening).
 * Avoid using too many words and use large images, try to be more visual.
-* Your presentation should be like a story and it should answers the questions [why, how and what](https://www.disruptiveadvertising.com/business/why-how-what-in-that-order-using-the-golden-circle-to-improve-your-business-yourself/) it that specific order.
+* Your presentation should be like a story and it should answer the questions [why, how and what](https://www.disruptiveadvertising.com/business/why-how-what-in-that-order-using-the-golden-circle-to-improve-your-business-yourself/) it that specific order.
 
 ### Research congress
 
-We go to research congress to publish our research and also to engage with other researches.
+We go to research congresses to publish our research and also to engage with other researches.
 
 ### Blog
 
 [The blog](https://medium.com/serendeepia) is our way to publish original content. It helps us to train people of how to write technical content and to share our knowledge. We want it to be a reference point of information for the people interested in AI and our company in particular. 
 
-Whenever you see something to be worth of a blog post, just go ahead and write one. Let someone else to review your content and send it to the marketing team so they can review it as well and guide you to the steps to publish it.
+Whenever you see something to be worth of a blog post, just go ahead and write one. Let someone else to review your content and send it to the marketing team so they can review it as well and guide you on the steps to publish it.
 
 #### How to write a blog post
 
@@ -58,15 +58,15 @@ We use [LinkedIn](https://www.linkedin.com/company/serendeepia/) for general con
 
 ### Twitter
 
-[Twitter](https://twitter.com/serendeepia) is our way to connect with researchers, AI directors and with people interested in the latest advancement in AI. We mostly publish scientific content as papers.
+[Twitter](https://twitter.com/serendeepia) is our way to connect with researchers, AI directors and people interested in the latest advancements in AI. We mostly publish scientific content such as papers.
 
 ### Youtube
 
-Youtube is our way to share videos of conferences, meetups and other events related with AI. We also use it to show videos of demos of what we do.
+Youtube is our way to share videos of conferences, meetups and other events related with AI. We also use it to show video-demos of what we do.
   
 ### Instagram
 
-We use [Instagram](https://www.instagram.com/serendeepia/) only for live events.
+We only use [Instagram](https://www.instagram.com/serendeepia/) for live events.
 
 ### Facebook
 
