@@ -18,7 +18,7 @@ We will need you to complete our survey to collect some personal information we 
 * Add you to [GitHub](https://github.com/serendeepia) if necessary
 * Add you to [Clockify](https://clockify.me/teams) (both in Serendeepia and Serendeepia Workday) if necessary
 * Share the Personal Time Out calendar
-* Add you to the [daily stand-up meeting](/1-2-communication#daily-stand-up) of your team.
+* Add you to the [daily stand-up meeting](https://github.com/serendeepia/playbook/blob/master/_docs/1_2_communication.md#daily-stand-up) of your team.
 * Share some Google Drive folders if necessary
 * Add your information to our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU) if appropriate
 * Schedule a meeting to talk about the projects you are going to work on with your manager 
@@ -26,14 +26,14 @@ We will need you to complete our survey to collect some personal information we 
 
 ### What you do
 
-* You must prepare 2 or 3 slides to introduce yourself to the rest of the company. We expect to know more about you as a person: what things do you love, what are your hobbies, your goals in life, etc. You can make the slides as much fun as you want. We will use the last minutes of the [weekly all-hands meeting](/1-2-communications#weekly-all-hands) to introduce yourself.
-* Add your information to the [organization chart](/1-4-organization-chart). Ask your manager for help if you don't know where do you fit exactly.
+* You must prepare 2 or 3 slides to introduce yourself to the rest of the company. We expect to know more about you as a person: what things do you love, what are your hobbies, your goals in life, etc. You can make the slides as much fun as you want. We will use the last minutes of the [weekly all-hands meeting](https://github.com/serendeepia/playbook/blob/master/_docs/1_2_communication.md#weekly-all-hands) to introduce yourself.
+* Add your information to the [organization chart](https://github.com/serendeepia/playbook/blob/master/_docs/1_4_organization_chart.md). Ask your manager for help if you don't know where do you fit exactly.
 * Say hello in [Slack](https://serendeepia.slack.com/messages/C7D0YUBL1/) in the `_general` channel.
 * Check your new email account
-* Add your [email signature](/5-1-branding#email-signature)
+* Add your [email signature](https://github.com/serendeepia/playbook/blob/master/_docs/5_1_branding.md#email-signature)
 * Check your GitHub access to Serendeepia
 * Accept the invitations for the first meetings with your team
-* Read the whole [Playbook](/)
+* Read the whole [Playbook](https://github.com/serendeepia/playbook)
 
 ## When someone leaves us
 
@@ -46,5 +46,5 @@ Some things we need to do:
 * Set as inactive the user in [Clockify](https://clockify.me/teams) (both in Serendeepia and Serendeepia Workday)
 * Remove the sensitive personal information from our [survey records](https://docs.google.com/spreadsheets/d/1MyiSmkIOj1Q2q1G-SAG_h3--cU54GFeHnpPbZudE0fI)
 * Remove their information from our website [team page](https://serendeepia.com/team.html)
-* Remove their information from the [organization chart](/1-4-organization-chart)
+* Remove their information from the [organization chart](https://github.com/serendeepia/playbook/blob/master/_docs/1_4_organization_chart.md)
 * Remove their information form our [slides with the senior deep learning researches](https://docs.google.com/presentation/d/1JB8tzKKdeHBhdYPFMoxZXxoXirlTvhBW-mrJ4Gl33RU)
