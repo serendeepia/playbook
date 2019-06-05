@@ -30,7 +30,7 @@ Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.
 
 If we think your CV makes sense and fits our needs now or in the future we will contact you. Otherwise we will drop out the CV. We try to reply to all the people who send us an email but we hope you understand that sometimes it is impossible to do so.
 
-If we like you we send you an email to know when is the best time to call you, either by phone or by videoconference. This is only a first contact to have a small talk about [the company](/1-0-organization) (what we do and why we do it) and the interest of the candidate in the company, the position and the salary expectations. We also use this first contact to see your actitude and your skills to work remotely. If we both are aligned, also in the salary expectations, we will continue with the process.
+If we like you we send you an email to know when is the best time to call you, either by phone or by videoconference. This is only a first contact to have a small talk about [the company](https://github.com/serendeepia/playbook/blob/master/_docs/1_0_organization.md) (what we do and why we do it) and the interest of the candidate in the company, the position and the salary expectations. We also use this first contact to see your actitude and your skills to work remotely. If we both are aligned, also in the salary expectations, we will continue with the process.
 
 ### Home assigment
 
@@ -41,7 +41,7 @@ For most positions we will ask you to complete a small home assigment. This assi
 * your interest in the company
 * your skills (we expect different things for different positions even if the home assigment is the same)
 
-As a candidate you must return the home assignment by email following the instructions. It is important for us that you are able to follow [the processes](/6-0-operations) we have in the company.
+As a candidate you must return the home assignment by email following the instructions. It is important for us that you are able to follow [the processes](https://github.com/serendeepia/playbook/blob/master/_docs/6_0_operations.md) we have in the company.
 
 ### Technical interview
 
