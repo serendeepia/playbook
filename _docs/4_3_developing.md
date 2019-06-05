@@ -85,7 +85,6 @@ When reviewing the code don't forget to check the considerations described in [c
 
 All our Pull Requests and Git Branches follow the next name convention:
 * `feature/` for features
-* `fix/` for bug fixes
 * `refactor/` for improvements/refactor
 * `bug/` for code fixing
 * `hotfix/` for critical, out-of-cycle releases into production
