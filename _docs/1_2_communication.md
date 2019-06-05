@@ -71,10 +71,10 @@ At the end of a quarter we add information to the week all-hands about the finan
 
 ### Team meetings
 
-We strongly suggest teams to self organize meetings, some of them are mandatory as they are part of the [agile methodology](/4-1-agile-methodology).
+We strongly suggest teams to self organize meetings, some of them are mandatory as they are part of the [agile methodology](https://github.com/serendeepia/playbook/blob/master/_docs/4_1_agile_methodology.md).
 
 ### One on One
 
-The [one on one meetings](https://medium.com/swlh/how-to-run-the-best-one-on-one-meetings-a2e001e64612) are a way to connect the managers with the people who reports to them. This is the best opportunity to raise issues to your manager and also to get to know each other more deeply. You don't have to talk only about work in your one on one meetings. Actually, we suggest you to also use them for some help with your [career path](/2-3-career-path).
+The [one on one meetings](https://medium.com/swlh/how-to-run-the-best-one-on-one-meetings-a2e001e64612) are a way to connect the managers with the people who reports to them. This is the best opportunity to raise issues to your manager and also to get to know each other more deeply. You don't have to talk only about work in your one on one meetings. Actually, we suggest you to also use them for some help with your [career path](https://github.com/serendeepia/playbook/blob/master/_docs/2_3_career_path.md).
 
 One on one meetings should be done every 2 weeks and last 30 minutes.
