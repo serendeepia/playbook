@@ -8,11 +8,11 @@ For us, working is not about money, it's about enjoying what we do, to be happy 
 
 ## Remote
 
-We are a [remote company](/1-1-remote-team), so you can work from wherever you want, as long as you have a good Internet connection. Just let your manager and the rest of your team to know what will be your Timezone.
+We are a [remote company](https://github.com/serendeepia/playbook/blob/master/_docs/1_1_remote_team.md), so you can work from wherever you want, as long as you have a good Internet connection. Just let your manager and the rest of your team to know what will be your Timezone.
 
 ## Flexible schedule
 
-We try to follow a [regular workday](/1-1-remote-team#an-usual-workday) but we are flexible. We understand that not everybody performs well at the same time and we sometimes don't feel well enough to be productive. Organize yourself in the best way to be happy and productive. We know that feeling happy with a good balance between personal and professional live is important to achieve [our core values](1-0-organiziation#our-core-values).
+We try to follow a [regular workday](https://github.com/serendeepia/playbook/blob/master/_docs/1_1_remote_team.md#an-usual-workday) but we are flexible. We understand that not everybody performs well at the same time and we sometimes don't feel well enough to be productive. Organize yourself in the best way to be happy and productive. We know that feeling happy with a good balance between personal and professional live is important to achieve [our core values](https://github.com/serendeepia/playbook/blob/master/_docs/1_0_organization.md#our-core-values).
 
 ## Unlimited Vacation Policy
 
@@ -25,8 +25,12 @@ When you add your days off to the PTO calendar please use your name and the reas
 
 ## Personal projects
 
-You can also work on [personal projects](/2-3-career-path#personal-projects). There are some conditions but we like our team to work on projects that can become our next [product](4-0-projects-products#main-phases-of-a-project) or our next [published paper](/3-0-research).
+You can also work on [personal projects](https://github.com/serendeepia/playbook/blob/master/_docs/2_3_career_path.md#side-projects). There are some conditions but we like our team to work on projects that can become our next [product](https://github.com/serendeepia/playbook/blob/master/_docs/4_0_projects_products.md#main-phases-of-a-project) or our next [published paper](https://github.com/serendeepia/playbook/blob/master/_docs/3_0_research.md).
 
 ## Personal development
 
-Don't forget the world is alive and everything is changing very fast. We need time for ourselves to keep improving and learning. That is why we encourage you with things as [side projects](/2-3-career-path#side-projects) and keep learning new skills. Also, don't forget to tell about them to the rest of your team in the [team meetings](1-2-communication#team-meetings) or [weekly all-hands](/1-2-communication#weekly-all-hands).
+Don't forget the world is alive and everything is changing very fast. We need time for ourselves to keep improving and learning. That is why we encourage you with things as [side projects](https://github.com/serendeepia/playbook/blob/master/_docs/2_3_career_path.md#side-projects) and keep learning new skills. Also, don't forget to tell about them to the rest of your team in the [team meetings](https://github.com/serendeepia/playbook/blob/master/_docs/1_2_communication.md#team-meetings) or [weekly all-hands](https://github.com/serendeepia/playbook/blob/master/_docs/1_2_communication.md#weekly-all-hands).
+
+## Labour agreement
+
+In Serendeepia we follow the [Spanish metal industry labour agreement](https://drive.google.com/open?id=0B38wPgHzrl01OWd3Yl9ETGhwVTZMY2EzNFFrV3RzNVBfT3Nz)
