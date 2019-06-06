@@ -11,7 +11,7 @@ We follow some guidelines for the projects when we are developing them.
 We use the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) development protocol.
 
 1. Select one of your assigned issues (or find one without anyone assigned)
-1. Start a new git branch (follow our [name convections](#name-convections))
+1. Start a new git branch (follow our [Name conventions](#name-conventions))
 1. Start coding!
 1. Commit changes when you're finished
 1. Create a [Pull Request](#pull-requests)
@@ -81,12 +81,13 @@ We prefer to squash merge instead of a normal merge. Only do a normal merge if y
  
 When reviewing the code don't forget to check the considerations described in [code style](#code-style), [documentation](#documentation) and [unit testing](#unit-testing) sections.
 
-### Name convections
+### Name conventions
 
-All our Pull Requests and Git Branches follow the next name convection:
+All our Pull Requests and Git Branches follow the next name convention:
 * `feature/` for features
-* `fix/` for bug fixes
 * `refactor/` for improvements/refactor
+* `bug/` for code fixing
+* `hotfix/` for critical, out-of-cycle releases into production
 * `other/` for random tasks
 
 ## Code owners
