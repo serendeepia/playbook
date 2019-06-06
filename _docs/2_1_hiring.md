@@ -24,7 +24,7 @@ The first step is to define the requirements of the job position. We think and w
 
 Find the best platform for the target candidate and post the job there. Bonus point if the candidate comes form a reliable source and with good references.
 
-Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.com) we store it in [Google Drive](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O) and add a card in [Trello](https://trello.com/b/mhFU3KPU/recruitment) under 
+Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.com) we store it in [Google Drive](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O) and add a card in [Trello](https://trello.com/b/mhFU3KPU/recruitment)
 
 ### The first contact
 
