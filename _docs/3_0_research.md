@@ -12,7 +12,7 @@ Our research must be open source, we believe the only way to improve the knowled
 
 ## Scientific method
 
-We do follow the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) of doing research and we also follow good [engineering practices](/4-3-developing) and [documentation](/4-2-documentation#project-structure) defined for the company.
+We do follow the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) of doing research and we also follow good [engineering practices](https://github.com/serendeepia/playbook/blob/master/_docs/4_3_developing.md) and [documentation](https://github.com/serendeepia/playbook/blob/master/_docs/4_2_documentation.md#structure-of-a-project) defined for the company.
 
 ## Experimentation
 
@@ -29,7 +29,7 @@ All this information must be included in the README.md file of the experiment.
 
 ### How to organize the experiments
 
-See the [project structure](/4-2-documentation#project-structure) for the main guidelines.
+See the [project structure](https://github.com/serendeepia/playbook/blob/master/_docs/4_2_documentation.md#structure-of-a-project) for the main guidelines.
 
 After the exploratory analysis we add the future lines of research as issues labeled as `enhancements` in GitHub. This way we can assign future experiments and know who is working at what. Every time we finish and experiment and we describe the future lines of research we must add these ones as GitHub issues with the label "enhancements" too.
 
@@ -41,4 +41,4 @@ After each experiment we should estimate resources employed, mostly time and mon
 
 ### How to organize the papers
 
-See the [project structure](/4-2-documentation#project-structure) for the main guidelines.
+See the [project structure](https://github.com/serendeepia/playbook/blob/master/_docs/4_2_documentation.md#structure-of-a-project) for the main guidelines.
