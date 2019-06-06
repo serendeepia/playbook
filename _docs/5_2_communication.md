@@ -62,7 +62,7 @@ We use [LinkedIn](https://www.linkedin.com/company/serendeepia/) for general con
 
 ### Youtube
 
-Youtube is our way to share videos of conferences, meetups and other events related with AI. We also use it to show video-demos of what we do.
+[Youtube](https://www.youtube.com/channel/UC-Ly-meVmKFkp1R-e7J4WAg?view_as=subscriber) is our way to share videos of conferences, meetups and other events related with AI. We also use it to show video-demos of what we do.
   
 ### Instagram
 
@@ -70,4 +70,4 @@ We only use [Instagram](https://www.instagram.com/serendeepia/) for live events.
 
 ### Facebook
 
-Same content as in LinkedIn.
+We publicate in [Facebook](https://www.facebook.com/Serendeepia-2008803126079058/) the same content as in LinkedIn.
