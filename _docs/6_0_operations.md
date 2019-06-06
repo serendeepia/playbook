@@ -5,8 +5,8 @@ title: Operations
 ---
 
 We sum up in this section the main operations within the company that are described in other sections:
-* [Data Management](https://github.com/serendeepia/playbook/blob/master/_docs/6_1_data_management.md)
-* [Accounting](https://github.com/serendeepia/playbook/blob/master/_docs/6_2_accounting.md)
+* [Data Management](/6_1_data_management.md)
+* [Accounting](/6_2_accounting.md)
 
 ## Things you should do daily
 
