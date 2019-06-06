@@ -4,7 +4,7 @@ index: 2.1
 title: Hiring
 ---
 
-Hiring [talent](https://github.com/serendeepia/playbook/blob/master/_docs/2_0_talent.md) is one of the key areas of our company. We are open with our process and we follow it for any position.
+Hiring [talent](2-0-talent) is one of the key areas of our company. We are open with our process and we follow it for any position.
 
 You can find our [open positions](http://serendeepia.com/careers.html) in the website.
 
@@ -24,7 +24,7 @@ The first step is to define the requirements of the job position. We think and w
 
 Find the best platform for the target candidate and post the job there. Bonus point if the candidate comes form a reliable source and with good references.
 
-Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.com) we store it in [Google Drive](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O) and add a card in [Trello](https://trello.com/b/mhFU3KPU/recruitment) under 
+Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.com) we store it in [Google Drive](https://drive.google.com/drive/u/1/folders/1QEGcepnTkx9OOhKH1vAI9xocplZRk00O) and add a card in [Trello](https://trello.com/b/mhFU3KPU/recruitment)
 
 ### The first contact
 
