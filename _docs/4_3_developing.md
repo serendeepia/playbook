@@ -11,7 +11,7 @@ We follow some guidelines for the projects when we are developing them.
 We use the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) development protocol.
 
 1. Select one of your assigned issues (or find one without anyone assigned)
-1. Start a new git branch (follow our [name convections](#name-convections))
+1. Start a new git branch (follow our [Name conventions](#name-conventions))
 1. Start coding!
 1. Commit changes when you're finished
 1. Create a [Pull Request](#pull-requests)
