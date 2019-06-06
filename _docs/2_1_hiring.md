@@ -4,7 +4,7 @@ index: 2.1
 title: Hiring
 ---
 
-Hiring [talent](2-0-talent) is one of the key areas of our company. We are open with our process and we follow it for any position.
+Hiring [talent](/2-0-talent) is one of the key areas of our company. We are open with our process and we follow it for any position.
 
 You can find our [open positions](http://serendeepia.com/careers.html) in the website.
 
