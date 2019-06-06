@@ -5,8 +5,8 @@ title: Operations
 ---
 
 We sum up in this section the main operations within the company that are described in other sections:
-* [Data Management](/6_1_data_management)
-* [Accounting](/6_2_accounting)
+* [Data Management](/6-1-data_management)
+* [Accounting](/6-2-accounting)
 
 ## Things you should do daily
 
