@@ -6,7 +6,7 @@ title: Communication
 
 ## Key Messages
 
-See the [organization](/1-0-organization) section.
+See the [organization](https://github.com/serendeepia/playbook/blob/master/_docs/1_0_organization.md) section.
 
 ## Channels
 
@@ -16,7 +16,7 @@ We use [Hootsuite](https://hootsuite.com/) to schedule our content in social net
 
 ### Conferences
 
-Conferences are the main place to know people and companies interested in [what we do](/1-0-organization#what-we-do). We usually attend local meet ups and use them to get [leads](/5-3-sales#leads) and new contacts.
+Conferences are the main place to know people and companies interested in [what we do](https://github.com/serendeepia/playbook/blob/master/_docs/1_0_organization.md#what-we-do). We usually attend local meet ups and use them to get [leads](https://github.com/serendeepia/playbook/blob/master/_docs/5_3_sales.md#leads) and new contacts.
 
 #### When you are the speaker
 
@@ -49,7 +49,7 @@ Whenever you see something to be worth of a blog post, just go ahead and write o
 
 1. Find a subject
 1. Create a document on Google docs and add your colleagues to comment. You can add it to the shared [Google Drive directory](https://drive.google.com/drive/folders/1DwrBNBffxsL5f0_yh1i1rIwPlTgpvlGU).
-1. Notify the [marketing team](/1-4-organization-chart)
+1. Notify the [marketing team](https://github.com/serendeepia/playbook/blob/master/_docs/1_4_organization_chart.md)
 1. Publish with the help of the marketing team
 
 ### LinkedIn
@@ -62,7 +62,7 @@ We use [LinkedIn](https://www.linkedin.com/company/serendeepia/) for general con
 
 ### Youtube
 
-Youtube is our way to share videos of conferences, meetups and other events related with AI. We also use it to show video-demos of what we do.
+[Youtube](https://www.youtube.com/channel/UC-Ly-meVmKFkp1R-e7J4WAg?view_as=subscriber) is our way to share videos of conferences, meetups and other events related with AI. We also use it to show video-demos of what we do.
   
 ### Instagram
 
@@ -70,4 +70,4 @@ We only use [Instagram](https://www.instagram.com/serendeepia/) for live events.
 
 ### Facebook
 
-Same content as in LinkedIn.
+We publicate in [Facebook](https://www.facebook.com/Serendeepia-2008803126079058/) the same content as in LinkedIn.
