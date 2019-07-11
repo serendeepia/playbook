@@ -22,10 +22,9 @@ title: Organization Chart
 	* Administration
 	* Human Resources
 
-## Machine Learning Engineers
+## Data Scientist
 
 * Arturo Sánchez
-* Paula Queipo
 
 ## Other Resources
 
