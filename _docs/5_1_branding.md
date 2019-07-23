@@ -47,7 +47,7 @@ You can also find it in the document: [Email signature](https://drive.google.com
 * Name Serendeepia [[SVG](/assets/images/name.svg)] [[PNG](/assets/images/name.png)]
 * Logo Psicobotica [[SVG](/assets/images/logo-psicobotica.svg)] [[PNG 300x300](/assets/images/logo-psicobotica.png)]
 * Logo Psicobotica and name [[SVG](/assets/images/logo-psicobotica_name.svg)] [[PNG](/assets/images/logo-psicobotica_name.png)]
-* Name Psicobotica [[SVG](/assets/images/name.svg)] [[PNG](/assets/images/name-psicobotica.png)]
+* Name Psicobotica [[SVG](/assets/images/name-psicobotica.svg)] [[PNG](/assets/images/name-psicobotica.png)]
 * Business Card [[SVG](/assets/images/business_card.svg)] [[PNG](/assets/images/business_card.png)]
 * Business Card Back [[SVG](/assets/images/business_card_back.svg)] [[PNG](/assets/images/business_card_back.png)]
 * Banner [[PNG ](/assets/images/banner.png)]
