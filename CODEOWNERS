@@ -1,5 +1,4 @@
 *           @jorgemf
-*.md        @serendeepia/caos
+*.md        @serendeepia/caos @serendeepia/docs
 *.html      @serendeepia/caos
-assets/*    @serendeepia/caos
-assets/*    @serendeepia/caos
+assets/*    @serendeepia/caos @serendeepia/docs
