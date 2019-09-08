@@ -79,7 +79,7 @@ We prefer to squash merge instead of a normal merge. Only do a normal merge if y
 
 ### Pull requests review
  
-When reviewing the code don't forget to check the considerations described in [code style](#code-style), [documentation](#documentation) and [unit testing](#unit-testing) sections.
+When reviewing the code don't forget to check the considerations described in [code style](#code-style), [documentation](#documentation) and [unit testing](#unit-testing) sections. You have a more detailed description of how to do [pull requests reviews in the google's guideline](https://google.github.io/eng-practices/review/reviewer/).
 
 ### Name conventions
 
