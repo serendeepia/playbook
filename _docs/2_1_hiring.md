@@ -30,14 +30,14 @@ Once we receive your CV in [careers@serendeepia.com](mailto:careers@serendeepia.
 
 If we think your CV makes sense and fits our needs now or in the future we will contact you. Otherwise we will drop out the CV. We try to reply to all the people who send us an email but we hope you understand that sometimes it is impossible to do so.
 
-If we like you we send you an email to know when is the best time to call you, either by phone or by videoconference. This is only a first contact to have a small talk about [the company](/1-0-organization) (what we do and why we do it) and the interest of the candidate in the company, the position and the salary expectations. We also use this first contact to see your actitude and your skills to work remotely. If we both are aligned, also in the salary expectations, we will continue with the process.
+If we like you we send you an email to know when is the best time to call you, either by phone or by videoconference. This is only a first contact to have a small talk about [the company](/1-0-organization) (what we do and why we do it) and the interest of the candidate in the company, the position and the salary expectations. We also use this first contact to see your attitude and your skills to work remotely. If we both are aligned, also in the salary expectations, we will continue with the process.
 
 ### Home assigment
 
 For most positions we will ask you to complete a small home assigment. This assigment is usually very easy to complete. The goals of the assigment are to asses:
 * your way of thinking while solving a problem
 * your communication skills
-* your actitude while working
+* your attitude while working
 * your interest in the company
 * your skills (we expect different things for different positions even if the home assigment is the same)
 
